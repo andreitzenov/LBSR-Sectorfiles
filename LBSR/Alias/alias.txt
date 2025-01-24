@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
+;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;  The Global Nav Generator (GNG) and all it sub-modules where created by the AeroNav Association.                        ;
@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2413/1  ++  Valid period: 26/DEC/2024 - 22/JAN/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
+;  AIRAC 2501/1  ++  Valid period: 23/JAN/2025 - 19/FEB/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
 ;=========================================================================================================================;
 ;*** Approach ***
 .clrils Cleared ILS approach, runway $arrrwy, report established.
@@ -41,7 +41,7 @@
 .autoclearedils Cleared ILS approach runway $1.
 .autoclearedvisual Cleared visual approach runway $1. Report runway in sight.
 .autospeed Maintain speed $1 knots.
-.automach Maintain mach number $1 
+.automach Maintain mach number $1
 .autonospeed No ATC speed restriction.
 .autoturnleft Turn left heading $1 degrees
 .autoturnright Turn right heading $1 degrees
@@ -167,4 +167,3 @@
 .ukr Contact Ukraine Radar (UKR_CTR) on 123.475, bye.
 .uko Contact Odesa Radar (UKOV_CTR) on on 132.200, bye.
 .uni Leaving my airspace, monitor unicom on 122.800, bye.
-

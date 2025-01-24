@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
+;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;  The Global Nav Generator (GNG) and all it sub-modules where created by the AeroNav Association.                        ;
@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2413/1  ++  Valid period: 26/DEC/2024 - 22/JAN/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
+;  AIRAC 2501/1  ++  Valid period: 23/JAN/2025 - 19/FEB/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -524,7 +524,7 @@ AYR	FLIGHT TRAINING EUROPE S.L.	CYGNET	SPAIN
 AYT	AYIT AVIATION & TOURISM	AYIT	ISRAEL
 AYV	AIRWAYS SERVICES & SUPPORT AS&S, C.A.	CARGWAY	VENEZUELA
 AYY	AIR ALLIANCE EXPRESS AG & CO. KG, BURBACH	LUPUS	GERMANY
-AZA	ALITALIA SOCIETÀ AEREA ITALIANA S.P.A.	ALITALIA	ITALY
+AZA	ALITALIA SOCIETï¿½ AEREA ITALIANA S.P.A.	ALITALIA	ITALY
 AZB	ZAMBIA AIRWAYS (2014) LIMITED	AIR ZAMBIA	ZAMBIA
 AZD	ZIMEX AVIATION AUSTRIA	MAILMAN	AUSTRIA
 AZE	ARCUS AIR GMBH & CO. KG, ZWEIBRUECKEN	ARCUS AIR	GERMANY
@@ -5622,7 +5622,7 @@ SXM	ST.MAARTEN AIRWAYS	SAINT MAARTEN	NETHERLANDS
 SXN	SAXON AIR	SAXONAIR	UNITED KINGDOM
 SXP	SOUTH PACIFIC EXPRESS HOLDINGS LIMITED	SOUTHPAC EXPRESS	SAMOA
 SXR	SKY EXPRESS	SKYSTORM	RUSSIAN FEDERATION
-SXS	SUNEXPRESS (GüNE? EKSPRES HAVAC?L?K A.?.)	SUNEXPRESS	TURKEY
+SXS	SUNEXPRESS (Gï¿½NE? EKSPRES HAVAC?L?K A.?.)	SUNEXPRESS	TURKEY
 SXT	SERVICIOS DE TAXI AEREOS, S.A. DE.C.V.	SERTAXI	MEXICO
 SXY	SAFARI EXPRESS CARGO LIMITED	SAFARI EXPRESS	KENYA
 SXZ	GREAT CIRCLE AVIATION, LLC (SAN MARCOS, CA)	SOCALAIR	UNITED STATES

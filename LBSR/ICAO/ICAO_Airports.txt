@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
+;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;  The Global Nav Generator (GNG) and all it sub-modules where created by the AeroNav Association.                        ;
@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2413/1  ++  Valid period: 26/DEC/2024 - 22/JAN/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
+;  AIRAC 2501/1  ++  Valid period: 23/JAN/2025 - 19/FEB/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
 ;=========================================================================================================================;
 00AA	LEOTI/AERO B RANCH	United States
 00AN	KING SALAMON/KATMAI LODGE	Alaska
@@ -2904,7 +2904,7 @@ CSU7	LAC-A-LA-TORTUE	Canada
 CSV8	SCHOMBERG/SLOAN FLD	Canada
 CSV9	ST-MATHIAS	Canada
 CSW4	BRACEBRIDGE/STONE WALL FARM	Canada
-CSW5	MONTRÉAL (BELL)	Canada
+CSW5	MONTRï¿½AL (BELL)	Canada
 CSW6	HASTINGS/SWEETWATER FARMS	Canada
 CSW9	STE-VERONIQUE	Canada
 CSX5	ST-MATHIAS/GRANT	Canada
@@ -2914,7 +2914,7 @@ CSY4	ST-DONAT	Canada
 CSY8	NATASHQUAN/LAC DE L'AVION	Canada
 CSZ3	ST-JOVITE/MONT-TREMBLANT/ST-JO	Canada
 CSZ4	ST-FREDERIC	Canada
-CSZ6	ST-JÉRÔME (HEDRO-QUÉBEC)	Canada
+CSZ6	ST-Jï¿½Rï¿½ME (HEDRO-QUï¿½BEC)	Canada
 CSZ9	SCHEFFERVILLE/SQUAW LAKE	Canada
 CT29	SOMERS/VALLEY FARM	United States
 CTA4	ST-BRUNO-DE-GUIGUES	Canada
@@ -2929,7 +2929,7 @@ CTF3	CausapscaL	Canada
 CTF4	DUNDALK	Canada
 CTF5	PIERCELAND/TURCHYN FLD	Canada
 CTF6	LETHBRIDGE/TAYLOR FLD	Canada
-CTG2	MONTRÉAL/ST-HUBERT HELI-INTER	Canada
+CTG2	MONTRï¿½AL/ST-HUBERT HELI-INTER	Canada
 CTG3	GRANDE-RIVIERE/DU ROCHER-PERCE	Canada
 CTH6	LA TUQUE	Canada
 CTH7	RIVIERE-AUX-SAUMONS	Canada
@@ -4099,10 +4099,10 @@ EEEE	HALDI	Estonia
 EEEI	AMARI	Estonia
 EEHA	HUMALA	Estonia
 EEHH	SELGASE	Estonia
-EEHK	VANAMÕISA	Estonia
+EEHK	VANAMï¿½ISA	Estonia
 EEHL	MAARITSA	Estonia
 EEHM	KONUVERE	Estonia
-EEHV	HAVEN KAKUMÄE	Estonia
+EEHV	HAVEN KAKUMï¿½E	Estonia
 EEJI	JOHVI	Estonia
 EEKA	KARDLA	Estonia
 EEKE	KURESSAARE	Estonia
@@ -4112,7 +4112,7 @@ EEKU	KIHNU ISLAND/KIHNU	Estonia
 EELI	LIU	Estonia
 EELM	LENNUNDUSMUUSEUM	Estonia
 EELU	LYCKHOLM	Estonia
-EEMA	MÄHA	Estonia
+EEMA	Mï¿½HA	Estonia
 EEMU	MUHU	Estonia
 EENA	NARVA	Estonia
 EEPA	PASLEPA	Estonia
@@ -4139,7 +4139,7 @@ EFAA	AAVAHELUKKA	Finland
 EFAH	AHMOSUO	Finland
 EFAL	ALAVUS	Finland
 EFEJ	JORVIN SAIRAALA	Finland
-EFEK	KILPISJÄRVI	Finland
+EFEK	KILPISJï¿½RVI	Finland
 EFET	ENONTEKIO	Finland
 EFEU	EURA	Finland
 EFFH	KELLONIEMI	Finland
@@ -4153,7 +4153,7 @@ EFHM	HAMEENKYRO	Finland
 EFHN	HANKO	Finland
 EFHO	OULUN YLIOPISTOLLINEN SAIRAALA	Finland
 EFHP	HAAPAVESI	Finland
-EFHS	SEINÄJOEN KESKUSSAIRAALA	Finland
+EFHS	SEINï¿½JOEN KESKUSSAIRAALA	Finland
 EFHV	HYVINKAA	Finland
 EFHY	HELSINGIN YLIOPISTOLLINEN KESKUSSAIRAALA/MEILAHTI	Finland
 EFII	IISALMI	Finland
@@ -4200,7 +4200,7 @@ EFPE	PEIJAKSEN SAIRAALA	Finland
 EFPI	PIIKAJARVI	Finland
 EFPJ	KUOPION YLIOPISTOLLINEN SAIRAALA	Finland
 EFPK	PIEKSAMAKI	Finland
-EFPL	PÄIJÄT-HÄMEEN KESKUSSAIRAALA	Finland
+EFPL	Pï¿½IJï¿½T-Hï¿½MEEN KESKUSSAIRAALA	Finland
 EFPN	PUNKAHARJU	Finland
 EFPO	PORI	Finland
 EFPR	REDSTONE AERO	Finland
@@ -4642,23 +4642,23 @@ ELLX	LUXEMBOURG	Luxembourg
 ELNT	NOERTRANGE	Luxembourg
 ELUS	USELDANGE	Luxembourg
 EM02	KILDYAMTSY-2	Russian Federation
-ENAE	Østre Æra	Norway
-ENAH	ÅL/Hallingdal Sjukestugu (Helipad)	Norway
+ENAE	ï¿½stre ï¿½ra	Norway
+ENAH	ï¿½L/Hallingdal Sjukestugu (Helipad)	Norway
 ENAL	AALESUND/VIGRA	Norway
 ENAN	ANDOYA/ANDENES	Norway
-ENAR	ARENDAL/Sørlandet Sykehus (Helipad)	Norway
+ENAR	ARENDAL/Sï¿½rlandet Sykehus (Helipad)	Norway
 ENAS	NY-ALESUND/HAMNERABBEN	Norway
 ENAT	ALTA	Norway
-ENAX	ÅLESUND/Ålesund Sykehus (Helipad)	Norway
+ENAX	ï¿½LESUND/ï¿½lesund Sykehus (Helipad)	Norway
 ENBA	BARENTSBURG/Heerodden (Heliport)	Norway
-ENBB	Bøverbru	Norway
+ENBB	Bï¿½verbru	Norway
 ENBE	Balder A (Offshore Helipad)	Norway
-ENBG	BERGEN/Grønneviksøren (Heliport)	Norway
+ENBG	BERGEN/Grï¿½nneviksï¿½ren (Heliport)	Norway
 ENBH	Haakonsvern (Heliport)	Norway
 ENBI	BERGEN/Sandviken (Helipad)	Norway
-ENBJ	Bjørnøya	Norway
+ENBJ	Bjï¿½rnï¿½ya	Norway
 ENBL	FORDE/BRINGELAND	Norway
-ENBM	VOSS/Bømoen	Norway
+ENBM	VOSS/Bï¿½moen	Norway
 ENBN	BRONNOYSUND/BRONNOY	Norway
 ENBO	BODO	Norway
 ENBR	BERGEN/FLESLAND	Norway
@@ -4666,7 +4666,7 @@ ENBS	BATSFJORD	Norway
 ENBV	BERLEVAG	Norway
 ENBX	BERGEN/Haukeland Sykehus (Helipad)	Norway
 ENCN	KRISTIANSAND/KJEVIK	Norway
-ENDB	DOMBÅS/Brunshagen (Helipad)	Norway
+ENDB	DOMBï¿½S/Brunshagen (Helipad)	Norway
 ENDH	DRAMMEN/Vestre Viken Sykehus (Helipad)	Norway
 ENDI	GEILO/Dagali	Norway
 ENDO	DOKKA/Tumlevold	Norway
@@ -4676,22 +4676,22 @@ ENDU	BARDUFOSS	Norway
 ENEG	HONEFOSS/EGGEMOEN	Norway
 ENEH	Egersund Sykehus (Helipad)	Norway
 ENEL	ELVERUM/Sykehuset Innlandet (Helipad)	Norway
-ENEN	ENGELØY/Grådussan	Norway
+ENEN	ENGELï¿½Y/Grï¿½dussan	Norway
 ENEV	HARSTAD-NARVIK/EVENES	Norway
 ENFA	HAMARVIK/FROYA/FLATVAL	Norway
 ENFB	Statfjord B (Offshore Helipad)	Norway
-ENFD	FØRDE/Sentralsjukehuset (Helipad)	Norway
+ENFD	Fï¿½RDE/Sentralsjukehuset (Helipad)	Norway
 ENFG	FAGERNES/Leirin	Norway
-ENFJ	FEDJE/Høgden (Heliport)	Norway
+ENFJ	FEDJE/Hï¿½gden (Heliport)	Norway
 ENFL	FLORO	Norway
 ENFY	Fyresdal	Norway
 ENGA	Gullfaks A (Offshore Helipad)	Norway
 ENGC	Gullfaks C (Offshore Helipad)	Norway
-ENGJ	GJØVIK/Innlandet Sykehus (Helipad)	Norway
+ENGJ	GJï¿½VIK/Innlandet Sykehus (Helipad)	Norway
 ENGK	ARENDAL/GULLKNAPP	Norway
 ENGM	OSLO/GARDERMOEN	Norway
 ENGN	Grimsmoen	Norway
-ENGS	SNÅSA/Grønøra	Norway
+ENGS	SNï¿½SA/Grï¿½nï¿½ra	Norway
 ENHA	HAMAR/Stafsberg	Norway
 ENHD	HAUGESUND/KARMOY	Norway
 ENHE	Heidrun A (Offshore Helipad)	Norway
@@ -4707,15 +4707,15 @@ ENHV	HONNINGSVAG/VALAN	Norway
 ENHX	HAUGESUND/Helse Fonna Sykehus (Helipad)	Norway
 ENIS	Isfjord	Norway
 ENJA	Jan Mayen	Norway
-ENJB	TØNSBERG/Jarlsberg	Norway
+ENJB	Tï¿½NSBERG/Jarlsberg	Norway
 ENJS	Johan Sverdrup (Helipad)	Norway
 ENKA	Kautokeino	Norway
 ENKB	KRISTIANSUND/KVERNBERGET	Norway
-ENKH	KRISTIANSAND/Sørlandet Sykehus (Helipad)	Norway
+ENKH	KRISTIANSAND/Sï¿½rlandet Sykehus (Helipad)	Norway
 ENKJ	KJELLER	Norway
 ENKL	GOL/Klanten	Norway
 ENKR	KIRKENES/HOYBUKTMOEN	Norway
-ENKS	KRISTIANSUND/Helse Møere og Romsdal Sykehus (Helipad)	Norway
+ENKS	KRISTIANSUND/Helse Mï¿½ere og Romsdal Sykehus (Helipad)	Norway
 ENLA	Ula (Offshore Helipad)	Norway
 ENLB	Bjorli	Norway
 ENLE	Ekofisk L (Offshore Helipad)	Norway
@@ -4725,18 +4725,18 @@ ENLI	LISTA/Farsund	Norway
 ENLK	LEKNES	Norway
 ENLU	Lunde	Norway
 ENLV	Elvenes	Norway
-ENLX	LØRENSKOG/Akershus Universitetssykehus (Helipad)	Norway
+ENLX	Lï¿½RENSKOG/Akershus Universitetssykehus (Helipad)	Norway
 ENMH	MEHAMN	Norway
-ENMK	MOSJØEN/Sykehuset Helgeland (Helipad)	Norway
+ENMK	MOSJï¿½EN/Sykehuset Helgeland (Helipad)	Norway
 ENML	MOLDE/ARO	Norway
-ENMO	MERÅKER/Øyan	Norway
-ENMP	MOLDE/Helse Møre og Romsdal Sykehus (Helipad)	Norway
+ENMO	MERï¿½KER/ï¿½yan	Norway
+ENMP	MOLDE/Helse Mï¿½re og Romsdal Sykehus (Helipad)	Norway
 ENMS	MOSJOEN/KJAERSTAD	Norway
 ENMX	MO I RANA/Helgeland Sykehus (Helipad)	Norway
 ENNA	LAKSELV/BANAK	Norway
 ENND	NARVIK/Djupvik (Helipad)	Norway
 ENNE	Norne A (Offshore Helipad)	Norway
-ENNH	NAMSOS/Helse Nord-Trøndelag Sykehus (Helipad)	Norway
+ENNH	NAMSOS/Helse Nord-Trï¿½ndelag Sykehus (Helipad)	Norway
 ENNM	NAMSOS	Norway
 ENNO	NOTODDEN	Norway
 ENOA	Oseberg A (Offshore Helipad)	Norway
@@ -4752,8 +4752,8 @@ ENQD	Brage A (Offshore Helipad)	Norway
 ENQE	Oseberg East (Offshore Helipad)	Norway
 ENQF	Veslefrikk A (Offshore Helipad)	Norway
 ENQG	Gullfaks B (Offshore Helipad)	Norway
-ENQJ	Gjøa (Offshore Helipad)	Norway
-ENQK	Kvitebjørn (Offshore Helipad)	Norway
+ENQJ	Gjï¿½a (Offshore Helipad)	Norway
+ENQK	Kvitebjï¿½rn (Offshore Helipad)	Norway
 ENQL	Martin Linge B (Offshore Helipad)	Norway
 ENQM	Martin Linge A (Offshore Helipad)	Norway
 ENQO	Oseberg South (Offshore Helipad)	Norway
@@ -4766,13 +4766,13 @@ ENRE	LANDSORKJE/RENA AIRFIELD	Norway
 ENRG	Rognan	Norway
 ENRH	OSLO/Universitetssykehus Rikshospitalet (Helipad)	Norway
 ENRI	RINGEBU/Frya	Norway
-ENRK	RAKKESTAD/Åstorp	Norway
+ENRK	RAKKESTAD/ï¿½storp	Norway
 ENRM	RORVIK/RYUM	Norway
 ENRO	ROROS	Norway
 ENRS	ROST	Norway
 ENRT	TRONDHEIM/Rosten (Heliport)	Norway
 ENRV	Reinsvoll	Norway
-ENRX	HØNEFOSS/Ringerike Sykehus (Helipad)	Norway
+ENRX	Hï¿½NEFOSS/Ringerike Sykehus (Helipad)	Norway
 ENRY	RYGGE	Norway
 ENSB	SVALBARD/LONGYEAR	Norway
 ENSC	SULDAL/Sand (Helipad)	Norway
@@ -4781,34 +4781,34 @@ ENSE	Snorre A (Offshore Helipad)	Norway
 ENSF	Statfjord A (Offshore Helipad)	Norway
 ENSG	SOGNDAL/HAUKASEN	Norway
 ENSH	SVOLVAER/HELLE	Norway
-ENSI	SKI/Søndre Ski Gård	Norway
-ENSJ	SANDNESSJØEN/Sykehuset Helgeland (Helipad)	Norway
+ENSI	SKI/Sï¿½ndre Ski Gï¿½rd	Norway
+ENSJ	SANDNESSJï¿½EN/Sykehuset Helgeland (Helipad)	Norway
 ENSK	STOKMARKNES/SKAGEN	Norway
 ENSL	Sleipner A (Offshore Helipad)	Norway
 ENSM	ELVERUM/Starmoen	Norway
 ENSN	SKIEN/Geiteryggen	Norway
 ENSO	STORD/SORSTOKKEN	Norway
-ENSP	SARPSBORG/Østfold Sykehus Kalnes (Helipad)	Norway
+ENSP	SARPSBORG/ï¿½stfold Sykehus Kalnes (Helipad)	Norway
 ENSR	SORKJOSEN	Norway
 ENSS	VARDO/SVARTNES	Norway
 ENST	STOKKA/SANDNESSJOEN	Norway
-ENSU	SUNNDALSØRA/Vinnu	Norway
+ENSU	SUNNDALSï¿½RA/Vinnu	Norway
 ENSX	STAVANGER/Universitetssykehus (Helipad)	Norway
 ENTC	TROMSO/LANGNES	Norway
 ENTE	SKIEN/Sykehuset Telemark (Helipad)	Norway
-ENTH	TØNSBERG/Sykehuset I Vestfold (Helipad)	Norway
+ENTH	Tï¿½NSBERG/Sykehuset I Vestfold (Helipad)	Norway
 ENTO	SANDEFJORD/TORP	Norway
 ENTR	TRONDHEIM/St. Olavs Universitetssykehus (Helipad)	Norway
-ENTS	TRYSIL/Sæteråsen	Norway
-ENTU	TROMSØ/Universitetssykehus (Helipad)	Norway
+ENTS	TRYSIL/Sï¿½terï¿½sen	Norway
+ENTU	TROMSï¿½/Universitetssykehus (Helipad)	Norway
 ENTY	Tynset	Norway
-ENUA	Åsgard A (Offshore Helipad)	Norway
-ENUB	Åsgard B (Offshore Helipad)	Norway
-ENUC	Åsgard C (Offshore Helipad)	Norway
+ENUA	ï¿½sgard A (Offshore Helipad)	Norway
+ENUB	ï¿½sgard B (Offshore Helipad)	Norway
+ENUC	ï¿½sgard C (Offshore Helipad)	Norway
 ENUD	Njord A (Offshore Helipad)	Norway
 ENUE	Njord B (Offshore Helipad)	Norway
 ENUG	Goliat FPSO (Offshore Helipad)	Norway
-ENUH	OSLO/Ullevål Universitetssykehus (Helipad)	Norway
+ENUH	OSLO/Ullevï¿½l Universitetssykehus (Helipad)	Norway
 ENUJ	Johan Castberg (Offshore Helipad)	Norway
 ENUK	Kristin (Offshore Helipad)	Norway
 ENUL	ULVEN/Vaksinen	Norway
@@ -4817,8 +4817,8 @@ ENUR	Heidrun B (Offshore Helipad)	Norway
 ENUS	Skarv (Offshore Helipad)	Norway
 ENVA	TRONDHEIM/VAERNES	Norway
 ENVD	VADSO	Norway
-ENVE	VALLE/Åraksøyene	Norway
-ENVR	Værøy	Norway
+ENVE	VALLE/ï¿½raksï¿½yene	Norway
+ENVR	Vï¿½rï¿½y	Norway
 ENVS	VERDAL/Slottelid (Helipad)	Norway
 ENWA	Alvheim (Offshore Helipad)	Norway
 ENWE	Edvard Grieg (Offshore Helipad)	Norway
@@ -4842,7 +4842,7 @@ ENXR	Tambar (Offshore Helipad)	Norway
 ENXT	Tor (Offshore Helipad)	Norway
 ENXW	Grane (Offshore Helipad)	Norway
 ENXZ	Sleipner B (Offshore Helipad)	Norway
-ENYY	LEVANGER/Helse Nord-Trøndelag Sykehus (Helipad)	Norway
+ENYY	LEVANGER/Helse Nord-Trï¿½ndelag Sykehus (Helipad)	Norway
 ENZV	STAVANGER/SOLA	Norway
 EPAR	ARLAMOW	Poland
 EPBA	BIELSKO BIALA/ALEKSANDROWICE	Poland
@@ -4950,18 +4950,18 @@ EPZW	ZAWISZYN	Poland
 ESCF	LINKOPING/MALMEN	Sweden
 ESCM	UPPSALA	Sweden
 ESDF	RONNEBY	Sweden
-ESEB	BORÅS/Borås sjukhus	Sweden
-ESED	SUNDSVALL/Länssjukhuset	Sweden
+ESEB	BORï¿½S/Borï¿½s sjukhus	Sweden
+ESED	SUNDSVALL/Lï¿½nssjukhuset	Sweden
 ESEF	FALUN/Falu lasarett	Sweden
-ESEG	GÄLLIVARE/Vassara	Sweden
-ESEK	KIRUNA/Luossajärvi	Sweden
+ESEG	Gï¿½LLIVARE/Vassara	Sweden
+ESEK	KIRUNA/Luossajï¿½rvi	Sweden
 ESEM	LUND/Universitetssjukhuset	Sweden
-ESEN	TROLLHÄTTAN/NÄL sjukhus	Sweden
+ESEN	TROLLHï¿½TTAN/Nï¿½L sjukhus	Sweden
 ESEQ	KIRUNA/Kiruna sjukhus	Sweden
-ESES	LULEÅ/Sunderby sjukhuset	Sweden
+ESES	LULEï¿½/Sunderby sjukhuset	Sweden
 ESET	TORSBY/Torsby sjukhus	Sweden
 ESEV	VISBY/Sjukhuset	Sweden
-ESEW	VÄSTERÅS/Västmanlands sjukhus	Sweden
+ESEW	Vï¿½STERï¿½S/Vï¿½stmanlands sjukhus	Sweden
 ESEX	Kriegers Flak A	Sweden
 ESEY	LYCKSELE/Sjukhuset	Sweden
 ESEZ	Kriegers Flak B	Sweden
@@ -4991,34 +4991,34 @@ ESGT	TROLLHATTAN-VANERSBORG	Sweden
 ESGU	UDDEVALLA/RORKARR	Sweden
 ESGV	VARBERG	Sweden
 ESGY	SAFFLE	Sweden
-ESHA	GÄLLIVARE/Gällivare sjukhus	Sweden
-ESHB	GÖTEBORG/Östra sjukhuset	Sweden
-ESHC	STOCKHOLM/Södersjukhuset	Sweden
+ESHA	Gï¿½LLIVARE/Gï¿½llivare sjukhus	Sweden
+ESHB	Gï¿½TEBORG/ï¿½stra sjukhuset	Sweden
+ESHC	STOCKHOLM/Sï¿½dersjukhuset	Sweden
 ESHD	STOCKHOLM/Danderyds sjukhus	Sweden
 ESHG	STOCKHOLM/Gamla Stan	Sweden
-ESHJ	JÖNKÖPING/Ryhov sjukhus	Sweden
+ESHJ	Jï¿½NKï¿½PING/Ryhov sjukhus	Sweden
 ESHK	STOCKHOLM/Karolinska Universitetssjukhuset Solna	Sweden
 ESHL	STOCKHOLM/Huddinge sjukhus	Sweden
-ESHM	KUNGÄLV/Kungälvs sjukhus	Sweden
+ESHM	KUNGï¿½LV/Kungï¿½lvs sjukhus	Sweden
 ESHN	KARLSKRONA/Blekingesjukhuset	Sweden
-ESHO	SKÖVDE/Kärnsjukhuset	Sweden
-ESHQ	ÖREBRO/Universitetssjukhuset	Sweden
-ESHR	ÅKERSBERGA	Sweden
-ESHS	GÖTEBORG/Sahlgrenska sjukhuset	Sweden
+ESHO	SKï¿½VDE/Kï¿½rnsjukhuset	Sweden
+ESHQ	ï¿½REBRO/Universitetssjukhuset	Sweden
+ESHR	ï¿½KERSBERGA	Sweden
+ESHS	Gï¿½TEBORG/Sahlgrenska sjukhuset	Sweden
 ESHU	UPPSALA/Akademiska sjukhuset	Sweden
 ESHV	KARLSTAD/Centralsjukhuset	Sweden
 ESHX	HUDIKSVALL/Sjukhuset	Sweden
-ESHY	NORRTÄLJE/Sjukhuset	Sweden
-ESHZ	UMEÅ/Universitetssjukhuset	Sweden
+ESHY	NORRTï¿½LJE/Sjukhuset	Sweden
+ESHZ	UMEï¿½/Universitetssjukhuset	Sweden
 ESIA	KARLSBORG	Sweden
 ESIB	SATENAS	Sweden
-ESJA	GÄVLE/Sjukhuset	Sweden
-ESJB	BOLLNÄS/Sjukhuset	Sweden
-ESJD	BÄCKEFORS/Dalslands sjukhus	Sweden
-ESJH	GÖVIKEN/Helikopterflygplats	Sweden
-ESJL	LINKÖPING/US Linköping helikopterflygplats	Sweden
+ESJA	Gï¿½VLE/Sjukhuset	Sweden
+ESJB	BOLLNï¿½S/Sjukhuset	Sweden
+ESJD	Bï¿½CKEFORS/Dalslands sjukhus	Sweden
+ESJH	Gï¿½VIKEN/Helikopterflygplats	Sweden
+ESJL	LINKï¿½PING/US Linkï¿½ping helikopterflygplats	Sweden
 ESJM	MORA/Mora lasarett	Sweden
-ESJS	SKELLEFTEÅ/Skellefteå Lasarett	Sweden
+ESJS	SKELLEFTEï¿½/Skellefteï¿½ Lasarett	Sweden
 ESKC	UPPSALA/SUNDBRO	Sweden
 ESKD	DALA-JARNA	Sweden
 ESKG	GRYTTJOM	Sweden
@@ -11563,7 +11563,7 @@ LEAF	HEL DE ALCORISA FORESTAL	Spain
 LEAG	ALGECIRAS	Spain
 LEAH	SEVILLA/AERODROMO LOS ALCORES	Spain
 LEAI	TARRAGONA/AERODROMO DE GARCIA	Spain
-LEAJ	HEL BASE C.I. DE MORATA DE TAJUÑA	Spain
+LEAJ	HEL BASE C.I. DE MORATA DE TAJUï¿½A	Spain
 LEAK	ALIAGUILLA/AERODROMO DE ALIAGU	Spain
 LEAL	ALICANTE-ELCHE MIGUEL HERNANDE	Spain
 LEAM	ALMERIA	Spain
@@ -11715,7 +11715,7 @@ LELH	MURCIA/ALHAMA DE MURCIA	Spain
 LELI	BADAJOZ/AERODROMO EL MOLINILLO	Spain
 LELL	SABADELL	Spain
 LELN	LEON	Spain
-LELO	LOGROÑO/AGONCILLO	Spain
+LELO	LOGROï¿½O/AGONCILLO	Spain
 LELR	HEL BASE C.I. DE LAS ROZAS	Spain
 LELS	HEL DE LAS CASILLAS	Spain
 LELT	TOLEDO/LILLO	Spain
@@ -11844,7 +11844,7 @@ LETV	HEL TIRVIA	Spain
 LETX	MURCIA/AERODROMO DE TOTANA	Spain
 LETY	ALBACETE/AERODROMO DE TINAJERO	Spain
 LETZ	VALLADOLID/TOROZOS	Spain
-LEUA	HEL HOSPITAL UNIVERSITARIO A CORUÑA	Spain
+LEUA	HEL HOSPITAL UNIVERSITARIO A CORUï¿½A	Spain
 LEUC	PALENCIA/AERODROMO DE CILLAMAY	Spain
 LEUD	HEL SANITARIO SUPERFICIE DEL HOSPITAL UNIVERSITARIO 12 DE OCTUBRE	Spain
 LEUE	HEL C.I. DE HUELMA	Spain
@@ -12375,7 +12375,7 @@ LHSU	TOROKSZENTMIKLOS/SURJANY	Hungary
 LHSV	SZARVAS-KAKAHALOM	Hungary
 LHSY	SZOMBATHELY	Hungary
 LHSZ	SZENTES	Hungary
-LHTL	Tököl	Hungary
+LHTL	Tï¿½kï¿½l	Hungary
 LHTM	TAPIOSZENTMARTON	Hungary
 LHUD	SZEGED	Hungary
 LHUH	URHIDA	Hungary
@@ -12736,7 +12736,7 @@ LOAG	KREMS/LANGENLOIS	Austria
 LOAH	Horn KH Heliport	Austria
 LOAI	Wr. Neustadt KH Heliport	Austria
 LOAK	Krems KH Heliport	Austria
-LOAL	Pöchlarn-Wörth Heliport	Austria
+LOAL	Pï¿½chlarn-Wï¿½rth Heliport	Austria
 LOAM	Wien/Meidling Heliport	Austria
 LOAN	WIENER NEUSTADT/OST	Austria
 LOAO	Oberpullendorf LKH Heliport	Austria
@@ -12748,7 +12748,7 @@ LOAT	Flugeinsatzstelle Wr. Neustadt Heliport	Austria
 LOAU	STOCKERAU	Austria
 LOAV	VOESLAU	Austria
 LOAW	OEAMTC/Wr. Neustadt Heliport	Austria
-LOAX	St. Pölten KH Heliport	Austria
+LOAX	St. Pï¿½lten KH Heliport	Austria
 LOAY	Kilb Heliport	Austria
 LOAZ	Zwettl KH Heliport	Austria
 LOBA	Wien AKH Heliport	Austria
@@ -12756,15 +12756,15 @@ LOBB	Klinik Floridsdorf KH	Austria
 LOBC	Landesklinikum Hainburg KH Heliport	Austria
 LOBD	SMZ Ost - Donauspital KH Heliport	Austria
 LOBF	OEAMTC/Zentrale Heliport	Austria
-LOBG	Gmünd Heliport	Austria
+LOBG	Gmï¿½nd Heliport	Austria
 LOBH	Hanuschkrankenhaus KH Heliport	Austria
-LOBI	Mödling KH Heliport	Austria
+LOBI	Mï¿½dling KH Heliport	Austria
 LOBK	OEAMTC/Krems Heliport	Austria
-LOBL	Traumazentrum Wien der AUVA Standort Lorenz Böhler KHH eliport	Austria
+LOBL	Traumazentrum Wien der AUVA Standort Lorenz Bï¿½hler KHH eliport	Austria
 LOBM	Mistelbach KH Heliport	Austria
 LOBN	Neunkirchen KH Heliport	Austria
 LOBO	Hollabrunn KH Heliport	Austria
-LOBR	Klinik Landstraße KH Heliport	Austria
+LOBR	Klinik Landstraï¿½e KH Heliport	Austria
 LOBS	Scheibbs KH Heliport	Austria
 LOBT	Tulln LKH Heliport	Austria
 LOBU	Traumazentrum Wien Meidling UKH Heliport	Austria
@@ -12773,19 +12773,19 @@ LODA	Leoben LKH Heliport	Austria
 LODB	Deutschlandsberg LKH Heliport	Austria
 LODC	OEAMTC/St. Michael Heliport	Austria
 LODF	Feldbach LKH Heliport	Austria
-LODG	Graz Süd-West, Standort Süd LKH Heliport	Austria
+LODG	Graz Sï¿½d-West, Standort Sï¿½d LKH Heliport	Austria
 LODH	Hartberg LKH Heliport	Austria
 LODK	Kalwang UKH Heliport	Austria
 LODL	Kirchberg an der Raab, "Business Center Leitner" Heliport	Austria
-LODM	Mürzzuschlag LKH Heliport	Austria
+LODM	Mï¿½rzzuschlag LKH Heliport	Austria
 LODN	Knittelfeld LKH Heliport	Austria
 LODO	OEAMTC/Oberwart Heliport	Austria
 LODS	Stolzalpe LKH Heliport	Austria
 LODV	LKH Weststeiermark Standort Voitsberg LKH Heliport	Austria
-LODW	LKH Südsteiermark, Standort Wagna LKH Heliport	Austria
+LODW	LKH Sï¿½dsteiermark, Standort Wagna LKH Heliport	Austria
 LOGA	Bad Radkersburg KH Heliport	Austria
 LOGB	Bruck an der Mur LKH Heliport	Austria
-LOGC	OEAMTC/Niederöblarn Heliport	Austria
+LOGC	OEAMTC/Niederï¿½blarn Heliport	Austria
 LOGD	Klinik Diakonissen Schladming KH Heliport	Austria
 LOGE	Weiz LKH Heliport	Austria
 LOGF	FUERSTENFELD	Austria
@@ -12799,14 +12799,14 @@ LOGM	MARIAZELL	Austria
 LOGO	NIEDEROEBLARN	Austria
 LOGP	PINKAFELD	Austria
 LOGR	Oberwart LKH Heliport	Austria
-LOGS	Fürstenfeld KH Heliport	Austria
+LOGS	Fï¿½rstenfeld KH Heliport	Austria
 LOGT	TIMMERSDORF/LOEBEN	Austria
 LOGU	Graz UKH Heliport	Austria
 LOGV	Vorau KH Heliport	Austria
 LOGW	WEIZ - UNTERFLADNITZ	Austria
 LOGX	Rottenmann LKH Heliport	Austria
 LOGZ	Graz Kinderklinik LKH Heliport	Austria
-LOIB	Kitzbühel - Hörlahof Heliport	Austria
+LOIB	Kitzbï¿½hel - Hï¿½rlahof Heliport	Austria
 LOIC	 Wucher St. Anton am Arlberg Heliport	Austria
 LOID	Kufstein KH Heliport	Austria
 LOIE	Reutte KH Heliport	Austria
@@ -12832,7 +12832,7 @@ LOIX	Bregenz LKH Heliport	Austria
 LOIY	Schruns "Sanatorium Dr. Schenk" KH Heliport	Austria
 LOIZ	Schwaz Bezirkskrankenhaus Heliport	Austria
 LOJB	Bludenz LKH Heliport	Austria
-LOJC	OEAMTC/Reith bei Kitzbühel Heliport	Austria
+LOJC	OEAMTC/Reith bei Kitzbï¿½hel Heliport	Austria
 LOJD	Dornbirn KH Heliport	Austria
 LOJE	Erpfendorf Kitz-Air Heliport	Austria
 LOJH	Hochgurgl Heliport	Austria
@@ -12845,16 +12845,16 @@ LOJP	Karres Heliport	Austria
 LOJR	Mittelberg Heliport	Austria
 LOJS	OEAMTC/Falbeson Heliport	Austria
 LOJT	OEAMTC/Tux, Madseit - Au Heliport	Austria
-LOJW	Wucher Zürs-Lech am Arlberg Heliport	Austria
+LOJW	Wucher Zï¿½rs-Lech am Arlberg Heliport	Austria
 LOKA	Klagenfurt LKH Bodenlandeplatz Heliport	Austria
 LOKB	Bad Kleinkirchheim Heliport	Austria
 LOKC	Ferlach-Glock Heliport	Austria
-LOKD	Villach-Föderlach  Heliport	Austria
+LOKD	Villach-Fï¿½derlach  Heliport	Austria
 LOKF	FELDKIRCHEN - OSSIACHER SEE	Austria
 LOKG	FERLACH/GLAINACH	Austria
 LOKH	ALTHOFEN/FRIESACH/HIRT	Austria
 LOKJ	Lienz KH Heliport	Austria
-LOKK	Hallegg Klagenfurt Schloß Heliport	Austria
+LOKK	Hallegg Klagenfurt Schloï¿½ Heliport	Austria
 LOKL	NIKOLSDORF/LIENZ/NIKOLSDORF	Austria
 LOKM	MAYERHOFEN BEI FRIESBACH	Austria
 LOKN	NOETSCH IM GAILTAL	Austria
@@ -12867,7 +12867,7 @@ LOKU	Klagenfurt UKH Heliport	Austria
 LOKW	WOLFSBERG	Austria
 LOKX	Diez-Lobning Heliport	Austria
 LOKZ	Zwatzhof Heliport	Austria
-LOLA	Kepler Universitätsklinikum Med Campus III KH Heliport	Austria
+LOLA	Kepler Universitï¿½tsklinikum Med Campus III KH Heliport	Austria
 LOLB	Linz UKH Heliport	Austria
 LOLC	SCHARNSTEIN	Austria
 LOLD	SUBEN/OAMTC SUBEN	Austria
@@ -12876,7 +12876,7 @@ LOLF	GRUENBACH/FREISTADT	Austria
 LOLG	ST. GEORGEN - YBBSFELD	Austria
 LOLH	HOFKIRCHEN	Austria
 LOLI	Salzkammergut-Klinikum Bad Ischl KH Heliport	Austria
-LOLJ	Kepler Universitätsklinikum Neuromed Campus KH Heliport	Austria
+LOLJ	Kepler Universitï¿½tsklinikum Neuromed Campus KH Heliport	Austria
 LOLK	RIED/KIRCHHEIM	Austria
 LOLM	KIRCHDORF/MICHELDORF	Austria
 LOLO	LINZ OST	Austria
@@ -12884,7 +12884,7 @@ LOLR	Ried im Innkreis KH Heliport	Austria
 LOLS	SUBEN/SCHAERDING/SUBEN	Austria
 LOLT	SEITENSTETTEN	Austria
 LOLU	GMUNDEN/LAAKIRCHEN	Austria
-LOLV	Salzkammergut-Klinikum Vöcklabruck KH Heliport	Austria
+LOLV	Salzkammergut-Klinikum Vï¿½cklabruck KH Heliport	Austria
 LOLW	WELS	Austria
 LOLY	OEAMTC/Ybbsitz Heliport	Austria
 LOMM	Matrei in Osttirol Heliport	Austria
@@ -12902,7 +12902,7 @@ LOPI	Grieskirchen KH Heliport	Austria
 LOPK	Kirchdorf LKH Heliport	Austria
 LOPL	Krankenhaus der Barmherzigen Schwestern Linz KH Heliport	Austria
 LOPR	Rohrbach LKH Heliport	Austria
-LOPS	Schärding LKG	Austria
+LOPS	Schï¿½rding LKG	Austria
 LOPT	Steyr LKH Heliport	Austria
 LOPW	Wels KH Heliport	Austria
 LOSH	Hinterglemm Heliport	Austria
@@ -12923,9 +12923,9 @@ LOWZ	ZELL AM SEE	Austria
 LOXA	AIGEN	Austria
 LOXE	ALLENTSTEIG	Austria
 LOXH	Hochfilzen Heliport	Austria
-LOXI	Schwaz Militär Heliport	Austria
+LOXI	Schwaz Militï¿½r Heliport	Austria
 LOXN	WIENER NEUSTADT/WEST	Austria
-LOXS	Schwarzenbergkaserne Militär Heliport	Austria
+LOXS	Schwarzenbergkaserne Militï¿½r Heliport	Austria
 LOXT	TULLN	Austria
 LOXZ	ZELTWEG	Austria
 LP48	ALQUEIDAO	Portugal
@@ -12967,16 +12967,16 @@ LPBJ	BEJA AIR BASE NR 11	Portugal
 LPBR	BRAGA	Portugal
 LPCB	CASTELO BRANCO	Portugal
 LPCC	FUNCHAL HOSP	Portugal
-LPCD	SANTA COMBA DÃO	Portugal
+LPCD	SANTA COMBA Dï¿½O	Portugal
 LPCH	CHAVES	Portugal
 LPCI	COIMBRA HOSP. UNIV.	Portugal
 LPCL	COVILHA HOSP	Portugal
 LPCO	COIMBRA	Portugal
 LPCR	CORVO	Portugal
 LPCS	CASCAIS	Portugal
-LPCV	COIMBRA HOSP. COVÕES	Portugal
+LPCV	COIMBRA HOSP. COVï¿½ES	Portugal
 LPDA	MASSARELOS	Portugal
-LPER	ÉVORA HOSP	Portugal
+LPER	ï¿½VORA HOSP	Portugal
 LPEV	EVORA	Portugal
 LPFA	FERREIRA DO ALENTEJO	Portugal
 LPFC	FIGUEIRA DOS CAVALEIROS	Portugal
@@ -12992,11 +12992,11 @@ LPHB	HERDADE DA BRAVA	Portugal
 LPHC	CASCAIS HOSP	Portugal
 LPHR	HORTA	Portugal
 LPIN	ESPINHO	Portugal
-LPJB	ALGÉS	Portugal
+LPJB	ALGï¿½S	Portugal
 LPJF	LEIRIA JOSE FERRINHO	Portugal
 LPLA	LAJES AB	Portugal
 LPLE	LEIRIA HOSP	Portugal
-LPLO	LOULÉ	Portugal
+LPLO	LOULï¿½	Portugal
 LPLZ	LOUSA	Portugal
 LPMA	MADEIRA	Portugal
 LPMB	MORGADO DE APRA	Portugal
@@ -13036,7 +13036,7 @@ LPSR	SANTAREM COSME PEDROGAO	Portugal
 LPSS	SANTA MARIA DA FEIRA HOSP	Portugal
 LPST	SINTRA AIR BASE NR 1	Portugal
 LPTH	TOMAR HOSP	Portugal
-LPTM	BRAGANÇA HOSP	Portugal
+LPTM	BRAGANï¿½A HOSP	Portugal
 LPTN	TANCOS MIL	Portugal
 LPVL	VILAR DE LUZ	Portugal
 LPVR	VILA REAL	Portugal
@@ -13188,7 +13188,7 @@ LSXS	Schindellegi	Switzerland
 LSXT	Trogen	Switzerland
 LSXU	Untervaz	Switzerland
 LSXV	San Vittore	Switzerland
-LSXW	Würenlingen	Switzerland
+LSXW	Wï¿½renlingen	Switzerland
 LSZA	LUGANO	Switzerland
 LSZB	BERN/BELP	Switzerland
 LSZC	BUOCHS	Switzerland
@@ -15912,7 +15912,7 @@ SBES	SAO PEDRO DE ALDEIA/TENENTE JO	Brazil
 SBFI	FOZ DE IGUACU/CATARATAS INTL	Brazil
 SBFL	FLORIANOPOLIS/HERCILIO LUZ INT	Brazil
 SBFN	FERNANDO DE NORONHA	Brazil
-SBFS	Farol de São Tomé	Brazil
+SBFS	Farol de Sï¿½o Tomï¿½	Brazil
 SBFZ	FORTALEZA/PINTO MARTINS INTL	Brazil
 SBGL	RIO DE JANEIRO/GALEAO -  ANTON	Brazil
 SBGM	GUAJARA-MIRIM	Brazil
@@ -21364,24 +21364,24 @@ ZZAL	ALLIKU	Estonia
 ZZAT	ASTE	Estonia
 ZZAV	AVASTE	Estonia
 ZZHU	HAAPSALU/KILTSI	Estonia
-ZZJG	JÄGALA	Estonia
+ZZJG	Jï¿½GALA	Estonia
 ZZKG	KOGULA	Estonia
 ZZKI	KARKSI	Estonia
-ZZKJ	KEILA-JOA/TÜRISALU	Estonia
-ZZKK	KUREKÜLA	Estonia
-ZZKM	KASEPÄÄ MAANTEE	Estonia
-ZZNS	NÄSSUMA	Estonia
-ZZPK	VÄIKE-PAKRI	Estonia
+ZZKJ	KEILA-JOA/Tï¿½RISALU	Estonia
+ZZKK	KUREKï¿½LA	Estonia
+ZZKM	KASEPï¿½ï¿½ MAANTEE	Estonia
+ZZNS	Nï¿½SSUMA	Estonia
+ZZPK	Vï¿½IKE-PAKRI	Estonia
 ZZPM	PIIBE MAANTEE	Estonia
 ZZPP	PAPISSAARE	Estonia
 ZZPR	PIIRISSAARE	Estonia
-ZZRB	RÄÄBISE	Estonia
+ZZRB	Rï¿½ï¿½BISE	Estonia
 ZZRT	RUTJA	Estonia
 ZZSL	SUISLEPA	Estonia
 ZZSN	SINALEPA	Estonia
 ZZTJ	TONJA	Estonia
 ZZTR	TARTU/RAADI	Estonia
-ZZVH	VÕHMA	Estonia
+ZZVH	Vï¿½HMA	Estonia
 ZZVL	VALGA	Estonia
 ZZVR	VIRTSU	Estonia
 ZZVT	VATLA	Estonia
