@@ -1,0 +1,24 @@
+System_SchengenArea=BI,EB,ED,EE,EF,EH,EK,EL,EN,EP,ES,ET,EV,EY,GC,LB,LE,LF,LG,LH,LI,LJ,LK,LM,LO,LP,LS,LZ,LR
+
+Color_Arrival=255,255,0
+Color_Departure=0,255,255
+Color_Unknown=255,255,255
+Color_Warning=255,165,0
+Color_New_Stand=255,255,0
+
+Equip_ProMode=0
+GroundLabel=1
+
+Maps_Font=Lucida Sans Unicode
+System_GlobalMenu_Font=Lucida Sans Unicode
+System_Lists_Font=Lucida Sans Unicode
+System_Lists_FontSize=12
+System_Windows_Font=Lucida Sans Unicode
+System_GlobalMenu_FontSize=11
+GroundLabel_Font=Lucida Sans Unicode
+AppLabel_Font=Lucida Sans Unicode
+TowerLabel_Font=Lucida Sans Unicode
+GroundLabel_Filter_NoState=0
+GroundLabel_Filter_Parked=0
+GroundLabel_Filter_OnFreq=0
+GroundLabel_Filter_Stby=0
