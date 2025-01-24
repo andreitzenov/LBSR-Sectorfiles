@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2413/1  ++  Valid period: 26/DEC/2024 - 22/JAN/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
+;  AIRAC 2501/1  ++  Valid period: 23/JAN/2025 - 19/FEB/2025  ++  File-Publisher: vACC Bulgaria - LBSR                    ;
 ;=========================================================================================================================;
 
 
@@ -78,6 +78,7 @@ LBSF_APP:Sofia Radar:123.700:TMS::LBSF:APP:::4701:4777
 LBSF_ATIS:Sofia ATIS:126.680:ATSF::LBSF:ATIS:::0000:0000
 LBSF_F_APP:Sofia Director:129.900:DIS:F:LBSF:APP:::4701:4777
 LBSF_TWR:Sofia Tower:118.100:TWS::LBSF:TWR:::4701:4777
+LBSF_T_TWR:Sofia Tower:118.100:TWST:T:LBSF:TWR:::4701:4777
 LBSR_B_CTR:Sofia Control:132.950:BSS:B:LBSR:CTR:::4701:4777:N043.13.55.000:E027.49.31.000
 LBSR_CTR:Sofia Control:131.225:SOF::LBSR:CTR:::4701:4777:N042.45.00.000:E026.30.00.000
 LBSR_E_CTR:Sofia Control:129.100:SES:E:LBSR:CTR:::4701:4777:N042.45.00.000:E026.30.00.000

@@ -11,7 +11,7 @@ Settings	SettingsfilePLUGINS	\LBSR\Plugins\Plugin(tag).txt
 Settings	Settingsfile	\LBSR\SATCASBulgaria.txt
 Settings	SettingsfileSCREEN	\LBSR\Plugins\Plugin(tag).txt
 Settings	alias	\LBSR\Alias\alias.txt
-Settings	sector	\LBSR-LBSR-Package_20241226190423-241301-0001.sct
+Settings	sector	\LBSR-Package-2501.sct
 Plugins	Plugin0	\LBSR\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\LBSR\Plugins\AFVBridge\AfvEuroScopeBridge.dll
@@ -19,30 +19,9 @@ Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\LBSR\Plugins\GRP\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-LastSession	atis_freq4	118000
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 ASRFastKeys	1	\LBSR\ASR\TWR VIEW.asr
 ASRFastKeys	2	\LBSR\ASR\LBSF TMA 27.asr
 ASRFastKeys	3	\LBSR\ASR\LBSF TMA 09.asr
-LastSession	connecttype	2
-LastSession	facility	5
-LastSession	rating	4
-LastSession	tovatsim	1
-LastSession	range	150
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	callsign	LBSF_M_APP
-LastSession	realname	Andrei Tzenov
-LastSession	certificate	1604267
-LastSession	password	andreivatsim
-LastSession	server	SweatBox
-LastSession	atis2	$radioname
-LastSession	atis3	ATIS on 126.680
-LastSession	atis4	Charts and sceneries at bgvacc.com
-LastSession	scenario	C:\Mac\Home\Desktop\Sweatbox Sessions\LBSF_APP_Normal_Session_27.txt
-Plugins	Plugin3	\LBSR\Plugins\DiscordPlugin\DiscordEuroscope.dll
-RecentFiles	Recent1	\LBSR\ASR\LBSF TMA 27.asr
-RecentFiles	Recent2	\LBSR\ASR\TWR VIEW.asr
-LastSession	atis_freq3	118000
-RecentFiles	Recent3	\LBSR\ASR\LBSF TMA 09.asr
+RecentFiles	Recent1	\LBSR\ASR\TWR VIEW.asr
