@@ -1,0 +1,61 @@
+Settings	SettingsfileSYMBOLOGY	\LBSR\Settings\TopSky\Symbology.txt
+Settings	SettingsfilePROFILE	\LBSR\Settings\TopSky\Profiles TopSky.txt
+Settings	SettingsfileVOICE	\LBSR\Settings\VoiceChannels.txt
+Settings	SettingsfileTAGS	\LBSR\Settings\TopSky\Tag definitions.txt
+Settings	SettingsfileSIL	\LBSR\Settings\TopSky\Sector Inbound List.txt
+Settings	SettingsfileSEL	\LBSR\Settings\TopSky\Sector Exit List.txt
+Settings	SettingsfileDEP	\LBSR\Settings\TopSky\Departure List.txt
+Settings	SettingsfileARR	\LBSR\Settings\TopSky\Arrival List.txt
+Settings	SettingsfileFP	\LBSR\Settings\TopSky\Flight plan list.txt
+Settings	SettingsfilePLUGINS	\LBSR\Settings\TopSky\Plug-in List.txt
+Settings	Settingsfile	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileSCREEN	\LBSR\Settings\TopSky\Screen Layout.txt
+Settings	SettingsfileCONFLICT	\LBSR\Settings\TopSky\Conflict list config.txt
+Settings	SettingsfilePILOTING	\LBSR\Settings\TopSky\Piloting List config.txt
+Settings	SettingsfileORIGPLANE	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileSTUP	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileTAXIOUT	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileTAKEOFF	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileADCS	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileTAXIIN	\LBSR\Settings\TopSky\General Settings.txt
+Settings	SettingsfileVCCS	\LBSR\SATCASBulgaria.txt
+Settings	alias	\LBSR\Alias\alias.txt
+Settings	sector	\LBSR-LBSR-Package_20250424164311-241301-0009.sct
+Settings	airlines	\LBSR\ICAO\ICAO_Airlines.txt
+Settings	airports	\LBSR\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LBSR\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\LBSR\NavData\icao.txt
+Settings	airways	\LBSR\NavData\airway.txt
+RecentFiles	Recent1	\LBSR\ASR\LBSR CTR_TopSky.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Sounds	Sound0	\LBSR\Sounds\handoff_request.wav
+Sounds	Sound1	\LBSR\Sounds\handoff_accept.wav
+Sounds	Sound2	\LBSR\Sounds\conflict_alert.wav
+Sounds	Sound3	\LBSR\Sounds\radio_message.wav
+Sounds	Sound4	\LBSR\Sounds\private_message.wav
+Sounds	Sound5	\LBSR\Sounds\atc_message.wav
+Sounds	Sound6	\LBSR\Sounds\broadcast_message.wav
+Sounds	Sound7	\LBSR\Sounds\landline_request.wav
+Sounds	Sound8	\LBSR\Sounds\supervisor_message.wav
+Sounds	Sound9	\LBSR\Sounds\connected.wav
+Sounds	Sound10	\LBSR\Sounds\disconnected.wav
+Sounds	Sound11	\LBSR\Sounds\ongoing_request.wav
+Sounds	Sound12	\LBSR\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\LBSR\Sounds\ongoing_refused.wav
+Sounds	Sound14	\LBSR\Sounds\ongoing_manual.wav
+Sounds	Sound15	\LBSR\Sounds\new_atis.wav
+Sounds	Sound16	\LBSR\Sounds\handoff_refused.wav
+Sounds	Sound17	\LBSR\Sounds\pointout.wav
+Sounds	Sound18	\LBSR\Sounds\startup.wav
+Plugins	Plugin0	\LBSR\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\LBSR\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\LBSR\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\LBSR\Plugins\AFVBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin4	\LBSR\Plugins\GRP\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen

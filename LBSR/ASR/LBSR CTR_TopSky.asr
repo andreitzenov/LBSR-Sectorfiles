@@ -1,0 +1,30 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LGGG:
+ARTCC high boundary:LRBB_A_CTR:
+ARTCC high boundary:LRBB_L_CTR:
+ARTCC high boundary:LWSS:
+ARTCC high boundary:LYBA:
+ARTCC high boundary:SIP_CTR:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA-TopSky
+WINDOWAREA:40.647228:20.738686:45.074397:31.936212

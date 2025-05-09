@@ -1,0 +1,211 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LTBA:name
+Airports:LTBA:symbol
+Airports:LTFM:name
+Airports:LTFM:symbol
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR CTA I:
+ARTCC high boundary:LBSR CTA II:
+ARTCC high boundary:LBSR CTA III:
+ARTCC high boundary:LBSR CTA V:
+ARTCC high boundary:LBSR CTA VI:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC high boundary:LRBB_A_CTR:
+ARTCC high boundary:LRBB_L_CTR:
+ARTCC high boundary:LWSS:
+ARTCC high boundary:LYBA:
+Fixes:ADORU:name
+Fixes:ADORU:symbol
+Fixes:ADUNO:name
+Fixes:ADUNO:symbol
+Fixes:AMTOV:name
+Fixes:AMTOV:symbol
+Fixes:APROB:name
+Fixes:APROB:symbol
+Fixes:ARGES:name
+Fixes:ARGES:symbol
+Fixes:ARNOV:name
+Fixes:ARNOV:symbol
+Fixes:ARTAT:name
+Fixes:ARTAT:symbol
+Fixes:ATFIR:name
+Fixes:ATFIR:symbol
+Fixes:AYTEK:name
+Fixes:AYTEK:symbol
+Fixes:BALIK:name
+Fixes:BALIK:symbol
+Fixes:BINBI:name
+Fixes:BINBI:symbol
+Fixes:BOBVO:name
+Fixes:BOBVO:symbol
+Fixes:BULEN:name
+Fixes:BULEN:symbol
+Fixes:BUVAK:name
+Fixes:BUVAK:symbol
+Fixes:DEDIN:name
+Fixes:DEDIN:symbol
+Fixes:DELIN:name
+Fixes:DELIN:symbol
+Fixes:DICXA:name
+Fixes:DICXA:symbol
+Fixes:DILVO:name
+Fixes:DILVO:symbol
+Fixes:DINRO:name
+Fixes:DINRO:symbol
+Fixes:DOLAP:name
+Fixes:DOLAP:symbol
+Fixes:EFJAS:name
+Fixes:EFJAS:symbol
+Fixes:ESENA:name
+Fixes:ESENA:symbol
+Fixes:ETIDA:name
+Fixes:ETIDA:symbol
+Fixes:EVIVI:name
+Fixes:EVIVI:symbol
+Fixes:EXIGA:name
+Fixes:EXIGA:symbol
+Fixes:GAPVO:name
+Fixes:GAPVO:symbol
+Fixes:GODEK:name
+Fixes:GODEK:symbol
+Fixes:GONGO:name
+Fixes:GONGO:symbol
+Fixes:GOSLO:name
+Fixes:GOSLO:symbol
+Fixes:IBLAX:name
+Fixes:IBLAX:symbol
+Fixes:IDOMO:name
+Fixes:IDOMO:symbol
+Fixes:INKOM:name
+Fixes:INKOM:symbol
+Fixes:IRDUM:name
+Fixes:IRDUM:symbol
+Fixes:IVGOT:name
+Fixes:IVGOT:symbol
+Fixes:KOMAN:name
+Fixes:KOMAN:symbol
+Fixes:LETNI:name
+Fixes:LETNI:symbol
+Fixes:LOMOS:name
+Fixes:LOMOS:symbol
+Fixes:LUGEB:name
+Fixes:LUGEB:symbol
+Fixes:MAKOL:name
+Fixes:MAKOL:symbol
+Fixes:MEDEM:name
+Fixes:MEDEM:symbol
+Fixes:MOREK:symbol
+Fixes:NAPET:name
+Fixes:NAPET:symbol
+Fixes:NAVOD:name
+Fixes:NAVOD:symbol
+Fixes:NEDSI:name
+Fixes:NEDSI:symbol
+Fixes:NEGEM:name
+Fixes:NEGEM:symbol
+Fixes:NESAR:name
+Fixes:NESAR:symbol
+Fixes:NIKTI:name
+Fixes:NIKTI:symbol
+Fixes:NISVA:name
+Fixes:NISVA:symbol
+Fixes:ODERO:name
+Fixes:ODERO:symbol
+Fixes:OGOTA:name
+Fixes:OGOTA:symbol
+Fixes:OKANA:name
+Fixes:OKANA:symbol
+Fixes:OMENO:name
+Fixes:OMENO:symbol
+Fixes:OSTOV:name
+Fixes:OSTOV:symbol
+Fixes:RASUB:name
+Fixes:RASUB:symbol
+Fixes:RESLA:name
+Fixes:RESLA:symbol
+Fixes:REVDA:name
+Fixes:REVDA:symbol
+Fixes:RILEX:name
+Fixes:RILEX:symbol
+Fixes:RIXEN:name
+Fixes:RIXEN:symbol
+Fixes:RODIP:name
+Fixes:RODIP:symbol
+Fixes:RONBU:name
+Fixes:RONBU:symbol
+Fixes:ROVDO:name
+Fixes:ROVDO:symbol
+Fixes:RUEXX:name
+Fixes:RUEXX:symbol
+Fixes:RUMEN:name
+Fixes:RUMEN:symbol
+Fixes:RUTAR:name
+Fixes:RUTAR:symbol
+Fixes:SOMOV:name
+Fixes:SOMOV:symbol
+Fixes:TIMUR:name
+Fixes:TIMUR:symbol
+Fixes:TUDBU:name
+Fixes:TUDBU:symbol
+Fixes:TUGSO:name
+Fixes:TUGSO:symbol
+Fixes:UDROS:name
+Fixes:UDROS:symbol
+Fixes:UMPIT:name
+Fixes:UMPIT:symbol
+Fixes:UPAMA:name
+Fixes:UPAMA:symbol
+Fixes:UTEKA:name
+Fixes:UTEKA:symbol
+Fixes:UVUDA:name
+Fixes:UVUDA:symbol
+Fixes:VABUR:name
+Fixes:VABUR:symbol
+Fixes:VADEN:name
+Fixes:VADEN:symbol
+Fixes:VANET:symbol
+Fixes:VELBA:name
+Fixes:VELBA:symbol
+Fixes:XILTI:name
+Fixes:XILTI:symbol
+Geo:GEO:
+VORs:BGS:name
+VORs:BGS:symbol
+VORs:GOL:name
+VORs:GOL:symbol
+VORs:GRN:name
+VORs:GRN:symbol
+VORs:PDV:name
+VORs:PDV:symbol
+VORs:SOF:name
+VORs:SOF:symbol
+VORs:WRN:name
+VORs:WRN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA
+WINDOWAREA:40.043714:19.626860:45.439034:33.273107

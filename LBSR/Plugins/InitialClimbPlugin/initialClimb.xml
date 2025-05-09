@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="LBSF">
+		<runway name="09">
+			<sid name="OGOTA3S">
+				<alt>240</alt>
+			</sid>
+			<sid name="GODEK3S">
+				<alt>240</alt>
+			</sid>
+			<sid name="GOL3S">
+				<alt>230</alt>
+			</sid>
+			<sid name="UMPIT3S">
+				<alt>230</alt>
+			</sid>
+			<sid name="DEDIN2S">
+				<alt>230</alt>
+			</sid>
+			<sid name="RUMEN2S">
+				<alt>230</alt>
+			</sid>
+			<sid name="DILVO2S">
+				<alt>230</alt>
+			</sid>
+			<sid name="OMENO3S">
+				<alt>230</alt>
+			</sid>
+			<sid name="NAPET2S">
+				<alt>240</alt>
+			</sid>
+		</runway>
+		<runway name="27">
+			<sid name="OGOTA2T">
+				<alt>240</alt>
+			</sid>
+			<sid name="GODEK2T">
+				<alt>240</alt>
+			</sid>
+			<sid name="GOL2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="UMPIT2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="DEDIN2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="RUMEN2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="DILVO2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="OMENO2T">
+				<alt>230</alt>
+			</sid>
+			<sid name="NAPET2T">
+				<alt>240</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="LBBG">
+		<runway name="04">
+			<sid name="IXUKO2S">
+				<alt>060</alt>
+			</sid>
+			<sid name="ARNOV2S">
+				<alt>060</alt>
+			</sid>
+			<sid name="GONGO1S">
+				<alt>060</alt>
+			</sid>
+			<sid name="BUVAK1S">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUGSO1S">
+				<alt>060</alt>
+			</sid>
+			<sid name="XILTI2S">
+				<alt>060</alt>
+			</sid>
+			<sid name="MEDEM3S">
+				<alt>060</alt>
+			</sid>
+		</runway>
+		<runway name="22">
+			<sid name="IXUKO1V">
+				<alt>060</alt>
+			</sid>
+			<sid name="ARNOV3V">
+				<alt>060</alt>
+			</sid>
+			<sid name="GONGO2V">
+				<alt>060</alt>
+			</sid>
+			<sid name="BUVAK1V">
+				<alt>060</alt>
+			</sid>
+			<sid name="TUGSO1V">
+				<alt>060</alt>
+			</sid>
+			<sid name="XILTI2V">
+				<alt>060</alt>
+			</sid>
+			<sid name="MEDEM2V">
+				<alt>060</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="LBWN">
+		<runway name="09">
+			<sid name="BALIK3N">
+				<alt>160</alt>
+			</sid>
+			<sid name="TOTKA3N">
+				<alt>160</alt>
+			</sid>
+			<sid name="RUTAR3N">
+				<alt>170</alt>
+			</sid>
+			<sid name="IVGOT2N">
+				<alt>170</alt>
+			</sid>
+			<sid name="NEDSI2N">
+				<alt>170</alt>
+			</sid>	
+		</runway>
+		<runway name="27">
+			<sid name="BALIK3P">
+				<alt>160</alt>
+			</sid>
+			<sid name="TOTKA2P">
+				<alt>160</alt>
+			</sid>
+			<sid name="RUTAR3P">
+				<alt>170</alt>
+			</sid>
+			<sid name="IVGOT3P">
+				<alt>170</alt>
+			</sid>
+			<sid name="NEDSI3P">
+				<alt>170</alt>
+			</sid>	
+		</runway>
+		</apt>
+	<apt icao="LBPD">
+		<runway name="12">
+			<sid name="RUMEN2B">
+				<alt>160</alt>
+			</sid>
+			<sid name="ROVDO1B">
+				<alt>150</alt>
+			</sid>
+		</runway>
+		<runway name="30">
+			<sid name="RUMEN1F">
+				<alt>160</alt>
+			</sid>
+			<sid name="ROVDO1F">
+				<alt>150</alt>
+			</sid>	
+		</runway>
+		</apt>
+	<apt icao="LBGO">
+		<runway name="09">
+			<sid name="DELIN1S">
+				<alt>160</alt>
+			</sid>
+			<sid name="AMTOV1S">
+				<alt>150</alt>
+			</sid>
+		</runway>
+		<runway name="27">
+			<sid name="DELIN1T">
+				<alt>160</alt>
+			</sid>
+			<sid name="AMTOV1T">
+				<alt>150</alt>
+			</sid>	
+		</runway>
+		</apt>
+</initialClimb>

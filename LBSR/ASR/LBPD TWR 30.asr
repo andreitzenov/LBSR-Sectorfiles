@@ -1,0 +1,189 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR CTA I:
+ARTCC high boundary:LBSR CTA II:
+ARTCC high boundary:LBSR CTA III:
+ARTCC high boundary:LBSR CTA V:
+ARTCC high boundary:LBSR CTA VI:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC low boundary:Tower CTR LBPD:
+Fixes:ADUNO:name
+Fixes:ADUNO:symbol
+Fixes:PD600:name
+Fixes:PD600:symbol
+Fixes:PD601:name
+Fixes:PD601:symbol
+Fixes:PD602:name
+Fixes:PD602:symbol
+Fixes:PD603:name
+Fixes:PD603:symbol
+Fixes:PD604:name
+Fixes:PD604:symbol
+Fixes:PD606:name
+Fixes:PD606:symbol
+Fixes:PD611:name
+Fixes:PD611:symbol
+Fixes:RUMEN:name
+Fixes:RUMEN:symbol
+Free Text:LBPD GroundLayout\1:freetext
+Free Text:LBPD GroundLayout\10:freetext
+Free Text:LBPD GroundLayout\11:freetext
+Free Text:LBPD GroundLayout\12:freetext
+Free Text:LBPD GroundLayout\13:freetext
+Free Text:LBPD GroundLayout\2:freetext
+Free Text:LBPD GroundLayout\3:freetext
+Free Text:LBPD GroundLayout\4:freetext
+Free Text:LBPD GroundLayout\5:freetext
+Free Text:LBPD GroundLayout\6:freetext
+Free Text:LBPD GroundLayout\7:freetext
+Free Text:LBPD GroundLayout\8:freetext
+Free Text:LBPD GroundLayout\9:freetext
+Free Text:LBPD GroundLayout\A:freetext
+Free Text:LBPD GroundLayout\A:freetext
+Free Text:LBPD GroundLayout\B:freetext
+Free Text:LBPD GroundLayout\B:freetext
+Free Text:LBPD GroundLayout\C:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\F:freetext
+Free Text:LBPD GroundLayout\LOC-109.90-CRS302:freetext
+Free Text:LBPD GroundLayout\OLD-TERMINAL:freetext
+Free Text:LBPD GroundLayout\TERMINAL:freetext
+Free Text:LBPD GroundLayout\TOWER:freetext
+Geo:GEO:
+Geo:LBPD Groundlayout SMR:
+Regions:LBPD 3D:polygon
+Runways:LBPD 12-30:centerline
+Runways:LBPD 12-30:extended centerline 1
+Runways:LBPD 12-30:extended centerline 1 left base
+Runways:LBPD 12-30:extended centerline 1 left ticks
+Runways:LBPD 12-30:extended centerline 1 left vectoring
+Runways:LBPD 12-30:extended centerline 1 right base
+Runways:LBPD 12-30:extended centerline 1 right ticks
+Runways:LBPD 12-30:extended centerline 1 right vectoring
+Runways:LBPD 12-30:extended centerline 2
+Runways:LBPD 12-30:extended centerline 2 left base
+Runways:LBPD 12-30:extended centerline 2 left ticks
+Runways:LBPD 12-30:extended centerline 2 left vectoring
+Runways:LBPD 12-30:extended centerline 2 right base
+Runways:LBPD 12-30:extended centerline 2 right ticks
+Runways:LBPD 12-30:extended centerline 2 right vectoring
+Runways:LBPD 12-30:name
+Stars:LBPD ILS30-X ADUNO:
+Stars:LBPD ILS30-X PDV:
+Stars:LBPD ILS30-X RUMEN:
+VORs:ALX:symbol
+VORs:ARF:symbol
+VORs:AXE:symbol
+VORs:BAR:symbol
+VORs:BCS:symbol
+VORs:BDM:symbol
+VORs:BGD:symbol
+VORs:BGS:symbol
+VORs:BIG:symbol
+VORs:BKZ:symbol
+VORs:BLC:symbol
+VORs:BLO:symbol
+VORs:BRC:symbol
+VORs:BRY:symbol
+VORs:BUI:symbol
+VORs:CEK:symbol
+VORs:CLU:symbol
+VORs:CND:symbol
+VORs:CNK:symbol
+VORs:CRL:symbol
+VORs:CRV:symbol
+VORs:CTP:symbol
+VORs:DBK:symbol
+VORs:DER:symbol
+VORs:EKI:symbol
+VORs:EMO:symbol
+VORs:FGG:symbol
+VORs:FLR:symbol
+VORs:FSK:symbol
+VORs:GDC:symbol
+VORs:GIO:symbol
+VORs:GKA:symbol
+VORs:GOL:symbol
+VORs:GRN:symbol
+VORs:GRT:symbol
+VORs:IST:symbol
+VORs:IZD:symbol
+VORs:KAL:symbol
+VORs:KAS:symbol
+VORs:KEB:symbol
+VORs:KIS:symbol
+VORs:KOZ:symbol
+VORs:KPL:symbol
+VORs:KRV:symbol
+VORs:LAK:symbol
+VORs:LCC:symbol
+VORs:MIK:symbol
+VORs:MKR:symbol
+VORs:MNL:symbol
+VORs:MSR:symbol
+VORs:NII:symbol
+VORs:OHR:symbol
+VORs:OMA:symbol
+VORs:OPT:symbol
+VORs:PDV:name
+VORs:PDV:symbol
+VORs:PEP:symbol
+VORs:POD:symbol
+VORs:PRT:symbol
+VORs:ROZ:symbol
+VORs:SBH:symbol
+VORs:SIN:symbol
+VORs:SKJ:symbol
+VORs:SOF:symbol
+VORs:SPL:symbol
+VORs:STJ:symbol
+VORs:TAG:symbol
+VORs:TPL:symbol
+VORs:TRN:symbol
+VORs:TSL:symbol
+VORs:TZU:symbol
+VORs:UHL:symbol
+VORs:UHM:symbol
+VORs:UHN:symbol
+VORs:VAL:symbol
+VORs:VIE:symbol
+VORs:VIT:symbol
+VORs:VRB:symbol
+VORs:WRN:symbol
+VORs:YAA:symbol
+VORs:YEN:symbol
+VORs:ZDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA
+WINDOWAREA:42.053702:24.812143:42.085551:24.892698

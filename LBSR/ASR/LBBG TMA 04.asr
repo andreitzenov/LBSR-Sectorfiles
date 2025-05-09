@@ -1,0 +1,220 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:MRVA LBBG:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR CTA I:
+ARTCC high boundary:LBSR CTA II:
+ARTCC high boundary:LBSR CTA III:
+ARTCC high boundary:LBSR CTA V:
+ARTCC high boundary:LBSR CTA VI:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC high boundary:LRBB_A_CTR:
+ARTCC high boundary:LRBB_L_CTR:
+ARTCC high boundary:LWSS:
+ARTCC high boundary:LYBA:
+Fixes:ARNOV:name
+Fixes:ARNOV:symbol
+Fixes:BG361:name
+Fixes:BG361:symbol
+Fixes:BG363:name
+Fixes:BG363:symbol
+Fixes:BG364:name
+Fixes:BG364:symbol
+Fixes:BG365:name
+Fixes:BG365:symbol
+Fixes:BG372:name
+Fixes:BG372:symbol
+Fixes:BG373:name
+Fixes:BG373:symbol
+Fixes:BG374:name
+Fixes:BG374:symbol
+Fixes:BG376:name
+Fixes:BG376:symbol
+Fixes:BG377:name
+Fixes:BG377:symbol
+Fixes:BG381:name
+Fixes:BG381:symbol
+Fixes:BG382:name
+Fixes:BG382:symbol
+Fixes:BG383:name
+Fixes:BG383:symbol
+Fixes:BG384:name
+Fixes:BG384:symbol
+Fixes:BG768:name
+Fixes:BG768:symbol
+Fixes:BIDVO:name
+Fixes:BIDVO:symbol
+Fixes:BUVAK:name
+Fixes:BUVAK:symbol
+Fixes:ELTOG:name
+Fixes:ELTOG:symbol
+Fixes:ESENA:name
+Fixes:ESENA:symbol
+Fixes:GEBSU:name
+Fixes:GEBSU:symbol
+Fixes:GONGO:name
+Fixes:GONGO:symbol
+Fixes:MEDEM:name
+Fixes:MEDEM:symbol
+Fixes:NESAR:name
+Fixes:NESAR:symbol
+Fixes:OTLOG:name
+Fixes:OTLOG:symbol
+Fixes:RUEXX:name
+Fixes:RUEXX:symbol
+Fixes:RUTAR:name
+Fixes:RUTAR:symbol
+Fixes:TUGSO:name
+Fixes:TUGSO:symbol
+Fixes:UVUDA:name
+Fixes:UVUDA:symbol
+Fixes:VABUR:name
+Fixes:VABUR:symbol
+Fixes:XILTI:name
+Fixes:XILTI:symbol
+Free Text:LBBG MVA\1700 [1900]:freetext
+Free Text:LBBG MVA\2300 [2600]:freetext
+Free Text:LBBG MVA\2400 [2700]:freetext
+Free Text:LBBG MVA\2500 [2800]:freetext
+Free Text:LBBG MVA\2700 [3000]:freetext
+Free Text:LBBG MVA\2700 [3000]:freetext
+Free Text:LBBG MVA\3400 [3800]:freetext
+Free Text:LBBG MVA\4000 [4500]:freetext
+Free Text:LBBG MVA\4000 [4500]:freetext
+Free Text:LBBG MVA\4000 [4500]:freetext
+Free Text:LBBG MVA\6500 [7100]:freetext
+Geo:GEO:
+Runways:LBBG 04-22:centerline
+Runways:LBBG 04-22:extended centerline 1
+Runways:LBBG 04-22:extended centerline 1 left base
+Runways:LBBG 04-22:extended centerline 1 left ticks
+Runways:LBBG 04-22:extended centerline 1 left vectoring
+Runways:LBBG 04-22:extended centerline 1 right base
+Runways:LBBG 04-22:extended centerline 1 right ticks
+Runways:LBBG 04-22:extended centerline 1 right vectoring
+Runways:LBBG 04-22:extended centerline 2
+Runways:LBBG 04-22:extended centerline 2 left base
+Runways:LBBG 04-22:extended centerline 2 left ticks
+Runways:LBBG 04-22:extended centerline 2 left vectoring
+Runways:LBBG 04-22:extended centerline 2 right base
+Runways:LBBG 04-22:extended centerline 2 right ticks
+Runways:LBBG 04-22:extended centerline 2 right vectoring
+Runways:LBBG 04-22:name
+Stars:LBBG Route RUEXX 1D:
+Stars:LBBG STAR 04 ESENA4D:
+Stars:LBBG STAR 04 NESAR5D:
+Stars:LBBG STAR 04 RUTAR5D:
+Stars:LBBG STAR 04 UVUDA3D:
+Stars:LBBG STAR 04 VABUR3D:
+VORs:ALX:symbol
+VORs:ARF:symbol
+VORs:AXE:symbol
+VORs:BAR:symbol
+VORs:BCS:symbol
+VORs:BDM:symbol
+VORs:BGD:symbol
+VORs:BGS:symbol
+VORs:BIG:symbol
+VORs:BKZ:symbol
+VORs:BLC:symbol
+VORs:BLO:symbol
+VORs:BRC:symbol
+VORs:BRY:symbol
+VORs:BUI:symbol
+VORs:CEK:symbol
+VORs:CLU:symbol
+VORs:CND:symbol
+VORs:CNK:symbol
+VORs:CRL:symbol
+VORs:CRV:symbol
+VORs:CTP:symbol
+VORs:DBK:symbol
+VORs:DER:symbol
+VORs:EKI:symbol
+VORs:EMO:symbol
+VORs:FGG:symbol
+VORs:FLR:symbol
+VORs:FSK:symbol
+VORs:GDC:symbol
+VORs:GIO:symbol
+VORs:GKA:symbol
+VORs:GOL:symbol
+VORs:GRN:name
+VORs:GRN:symbol
+VORs:GRT:symbol
+VORs:IST:symbol
+VORs:IZD:symbol
+VORs:KAL:symbol
+VORs:KAS:symbol
+VORs:KEB:symbol
+VORs:KIS:symbol
+VORs:KOZ:symbol
+VORs:KPL:symbol
+VORs:KRV:symbol
+VORs:LAK:symbol
+VORs:LCC:symbol
+VORs:MIK:symbol
+VORs:MKR:symbol
+VORs:MNL:symbol
+VORs:MSR:symbol
+VORs:NII:symbol
+VORs:OHR:symbol
+VORs:OMA:symbol
+VORs:OPT:symbol
+VORs:PDV:name
+VORs:PDV:symbol
+VORs:PEP:symbol
+VORs:POD:symbol
+VORs:PRT:symbol
+VORs:ROZ:symbol
+VORs:SBH:symbol
+VORs:SIN:symbol
+VORs:SKJ:symbol
+VORs:SOF:name
+VORs:SOF:symbol
+VORs:SPL:symbol
+VORs:STJ:symbol
+VORs:TAG:symbol
+VORs:TPL:symbol
+VORs:TRN:symbol
+VORs:TSL:symbol
+VORs:TZU:symbol
+VORs:UHL:symbol
+VORs:UHM:symbol
+VORs:UHN:symbol
+VORs:VAL:symbol
+VORs:VIE:symbol
+VORs:VIT:symbol
+VORs:VRB:symbol
+VORs:WRN:name
+VORs:WRN:symbol
+VORs:YAA:symbol
+VORs:YEN:symbol
+VORs:ZDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA APP
+WINDOWAREA:41.933571:25.658895:43.347922:29.236177

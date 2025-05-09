@@ -1,0 +1,83 @@
+PROFILE
+
+PROFILE:LBSR_CTR:300:6
+ATIS2:$radioname
+ATIS3:Covering the whole of the LBSR FIR
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSR_V_CTR:300:6
+ATIS2:$radioname
+ATIS3:Covering the Varna subset of the LBSR FIR
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSR_B_CTR:300:6
+ATIS2:$radioname
+ATIS3:Covering the Black Sea subset of the LBSR FIR
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSR_E_CTR:300:6
+ATIS2:$radioname
+ATIS3:Covering the middle subset of the LBSR FIR
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSR_I_CTR:300:6
+ATIS2:$radioname
+ATIS3:FIS Services for LBSR FIR
+ATIS4:No services to IFR traffic
+
+PROFILE:LBSF_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 126.680
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSF_F_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 126.680
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBWN_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 126.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBWN_F_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 126.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBBG_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 128.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBBG_F_APP:150:5
+ATIS2:$radioname
+ATIS3:ATIS on 128.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBSF_TWR:50:4
+ATIS2:$radioname
+ATIS3:ATIS on 126.680
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBWN_TWR:50:4
+ATIS2:$radioname
+ATIS3:ATIS on 126.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBBG_TWR:50:4
+ATIS2:$radioname
+ATIS3:ATIS on 128.880
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBGO_TWR:50:4
+ATIS2:$radioname
+ATIS3:ATIS on 127.130
+ATIS4:Charts and sceneries at bgvacc.com
+
+PROFILE:LBPD_TWR:50:4
+ATIS2:$radioname
+ATIS3:ATIS on 127.205
+ATIS4:Charts and sceneries at bgvacc.com
+
+END

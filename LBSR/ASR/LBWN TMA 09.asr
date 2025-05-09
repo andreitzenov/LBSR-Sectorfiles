@@ -1,0 +1,210 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:MRVA LBWN:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR CTA I:
+ARTCC high boundary:LBSR CTA II:
+ARTCC high boundary:LBSR CTA III:
+ARTCC high boundary:LBSR CTA V:
+ARTCC high boundary:LBSR CTA VI:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC high boundary:LRBB_A_CTR:
+ARTCC high boundary:LRBB_L_CTR:
+ARTCC high boundary:LWSS:
+ARTCC high boundary:LYBA:
+Fixes:BALIK:name
+Fixes:BALIK:symbol
+Fixes:DICXA:name
+Fixes:DICXA:symbol
+Fixes:EMPED:name
+Fixes:EMPED:symbol
+Fixes:EVRAB:name
+Fixes:EVRAB:symbol
+Fixes:EXIGA:name
+Fixes:EXIGA:symbol
+Fixes:GOSLO:name
+Fixes:GOSLO:symbol
+Fixes:IVGOT:name
+Fixes:IVGOT:symbol
+Fixes:NEDSI:name
+Fixes:NEDSI:symbol
+Fixes:RUTAR:name
+Fixes:RUTAR:symbol
+Fixes:TUGSO:name
+Fixes:TUGSO:symbol
+Fixes:WN750:name
+Fixes:WN750:symbol
+Fixes:WN751:name
+Fixes:WN751:symbol
+Fixes:WN752:name
+Fixes:WN752:symbol
+Fixes:WN753:name
+Fixes:WN753:symbol
+Fixes:WN754:name
+Fixes:WN754:symbol
+Fixes:WN755:name
+Fixes:WN755:symbol
+Fixes:WN756:name
+Fixes:WN756:symbol
+Fixes:WN757:name
+Fixes:WN757:symbol
+Fixes:WN758:name
+Fixes:WN758:symbol
+Fixes:WN759:name
+Fixes:WN759:symbol
+Fixes:WN760:name
+Fixes:WN760:symbol
+Fixes:WN761:name
+Fixes:WN761:symbol
+Fixes:WN782:name
+Fixes:WN782:symbol
+Fixes:WN784:name
+Fixes:WN784:symbol
+Fixes:WN785:name
+Fixes:WN785:symbol
+Fixes:WN786:name
+Fixes:WN786:symbol
+Fixes:WN787:name
+Fixes:WN787:symbol
+Fixes:WN789:name
+Fixes:WN789:symbol
+Free Text:LBWN MVA\12000:freetext
+Free Text:LBWN MVA\1800 [2000]:freetext
+Free Text:LBWN MVA\1900 [2100]:freetext
+Free Text:LBWN MVA\2900 [3200]:freetext
+Free Text:LBWN MVA\4000 [4500]:freetext
+Free Text:LBWN MVA\4000 [4500]:freetext
+Geo:GEO:
+Runways:LBWN 09-27:centerline
+Runways:LBWN 09-27:extended centerline 1
+Runways:LBWN 09-27:extended centerline 1 left base
+Runways:LBWN 09-27:extended centerline 1 left ticks
+Runways:LBWN 09-27:extended centerline 1 left vectoring
+Runways:LBWN 09-27:extended centerline 1 right base
+Runways:LBWN 09-27:extended centerline 1 right ticks
+Runways:LBWN 09-27:extended centerline 1 right vectoring
+Runways:LBWN 09-27:extended centerline 2
+Runways:LBWN 09-27:extended centerline 2 left base
+Runways:LBWN 09-27:extended centerline 2 left ticks
+Runways:LBWN 09-27:extended centerline 2 left vectoring
+Runways:LBWN 09-27:extended centerline 2 right base
+Runways:LBWN 09-27:extended centerline 2 right ticks
+Runways:LBWN 09-27:extended centerline 2 right vectoring
+Runways:LBWN 09-27:name
+Stars:LBWN Route DICXA 1D:
+Stars:LBWN STAR 09 EXIGA3D:
+Stars:LBWN STAR 09 GOSLO6D:
+Stars:LBWN STAR 09 IVGOT5D:
+Stars:LBWN STAR 09 TUGSO5D:
+VORs:ALX:symbol
+VORs:ARF:symbol
+VORs:AXE:symbol
+VORs:BAR:symbol
+VORs:BCS:symbol
+VORs:BDM:symbol
+VORs:BGD:symbol
+VORs:BGS:name
+VORs:BGS:symbol
+VORs:BIG:symbol
+VORs:BKZ:symbol
+VORs:BLC:symbol
+VORs:BLO:symbol
+VORs:BRC:symbol
+VORs:BRY:symbol
+VORs:BUI:symbol
+VORs:CEK:symbol
+VORs:CLU:symbol
+VORs:CND:symbol
+VORs:CNK:symbol
+VORs:CRL:symbol
+VORs:CRV:symbol
+VORs:CTP:symbol
+VORs:DBK:symbol
+VORs:DER:symbol
+VORs:EKI:symbol
+VORs:EMO:symbol
+VORs:FGG:symbol
+VORs:FLR:symbol
+VORs:FSK:symbol
+VORs:GDC:symbol
+VORs:GIO:symbol
+VORs:GKA:symbol
+VORs:GOL:symbol
+VORs:GRN:name
+VORs:GRN:symbol
+VORs:GRT:symbol
+VORs:IST:symbol
+VORs:IZD:symbol
+VORs:KAL:symbol
+VORs:KAS:symbol
+VORs:KEB:symbol
+VORs:KIS:symbol
+VORs:KOZ:symbol
+VORs:KPL:symbol
+VORs:KRV:symbol
+VORs:LAK:symbol
+VORs:LCC:symbol
+VORs:MIK:symbol
+VORs:MKR:symbol
+VORs:MNL:symbol
+VORs:MSR:symbol
+VORs:NII:symbol
+VORs:OHR:symbol
+VORs:OMA:symbol
+VORs:OPT:symbol
+VORs:PDV:name
+VORs:PDV:symbol
+VORs:PEP:symbol
+VORs:POD:symbol
+VORs:PRT:symbol
+VORs:ROZ:symbol
+VORs:SBH:symbol
+VORs:SIN:symbol
+VORs:SKJ:symbol
+VORs:SOF:name
+VORs:SOF:symbol
+VORs:SPL:symbol
+VORs:STJ:symbol
+VORs:TAG:symbol
+VORs:TPL:symbol
+VORs:TRN:symbol
+VORs:TSL:symbol
+VORs:TZU:symbol
+VORs:UHL:symbol
+VORs:UHM:symbol
+VORs:UHN:symbol
+VORs:VAL:symbol
+VORs:VIE:symbol
+VORs:VIT:symbol
+VORs:VRB:symbol
+VORs:WRN:symbol
+VORs:YAA:symbol
+VORs:YEN:symbol
+VORs:ZDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA APP
+WINDOWAREA:42.563068:25.983176:43.977419:29.560459

@@ -1,0 +1,677 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LBLS:name
+Airports:LBLS:symbol
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC high boundary:LRBB_A_CTR:
+ARTCC high boundary:LRBB_L_CTR:
+ARTCC high boundary:LWSS:
+ARTCC high boundary:LYBA:
+ARTCC low boundary:LBSF CTR:
+ARTCC low boundary:Tower CTR LBBG:
+ARTCC low boundary:Tower CTR LBGO:
+ARTCC low boundary:Tower CTR LBPD:
+ARTCC low boundary:Tower CTR LBWN:
+Fixes:ABARU:name
+Fixes:ABARU:symbol
+Fixes:ABEMU:name
+Fixes:ABEMU:symbol
+Fixes:ABKOX:name
+Fixes:ABKOX:symbol
+Fixes:ABOBI:name
+Fixes:ABOBI:symbol
+Fixes:ADBIL:name
+Fixes:ADBIL:symbol
+Fixes:ADLES:name
+Fixes:ADLES:symbol
+Fixes:ADVIM:name
+Fixes:ADVIM:symbol
+Fixes:ASBIP:name
+Fixes:ASBIP:symbol
+Fixes:BABTI:name
+Fixes:BABTI:symbol
+Fixes:BADVU:name
+Fixes:BADVU:symbol
+Fixes:BAEVO:name
+Fixes:BAEVO:symbol
+Fixes:BAKAL:name
+Fixes:BAKAL:symbol
+Fixes:BATEK:name
+Fixes:BATEK:symbol
+Fixes:BAVNI:name
+Fixes:BAVNI:symbol
+Fixes:BEATI:name
+Fixes:BEATI:symbol
+Fixes:BEBON:name
+Fixes:BEBON:symbol
+Fixes:BEBSI:name
+Fixes:BEBSI:symbol
+Fixes:BEGLO:name
+Fixes:BEGLO:symbol
+Fixes:BEMKO:name
+Fixes:BEMKO:symbol
+Fixes:BEVIT:name
+Fixes:BEVIT:symbol
+Fixes:BOBMI:name
+Fixes:BOBMI:symbol
+Fixes:DEKUN:name
+Fixes:DEKUN:symbol
+Fixes:DIDKI:name
+Fixes:DIDKI:symbol
+Fixes:DIPRU:name
+Fixes:DIPRU:symbol
+Fixes:DOBIG:name
+Fixes:DOBIG:symbol
+Fixes:EFSOT:name
+Fixes:EFSOT:symbol
+Fixes:ELGIL:name
+Fixes:ELGIL:symbol
+Fixes:EMDOD:name
+Fixes:EMDOD:symbol
+Fixes:EMLUL:name
+Fixes:EMLUL:symbol
+Fixes:ESIKO:name
+Fixes:ESIKO:symbol
+Fixes:ESURI:name
+Fixes:ESURI:symbol
+Fixes:ETOTI:name
+Fixes:ETOTI:symbol
+Fixes:EVLOD:name
+Fixes:EVLOD:symbol
+Fixes:GEGDI:name
+Fixes:GEGDI:symbol
+Fixes:GIMEG:name
+Fixes:GIMEG:symbol
+Fixes:GUDVI:name
+Fixes:GUDVI:symbol
+Fixes:GUKMO:name
+Fixes:GUKMO:symbol
+Fixes:IBOPA:name
+Fixes:IBOPA:symbol
+Fixes:IDEBU:name
+Fixes:IDEBU:symbol
+Fixes:IDLOR:name
+Fixes:IDLOR:symbol
+Fixes:INKOS:name
+Fixes:INKOS:symbol
+Fixes:KEKOX:name
+Fixes:KEKOX:symbol
+Fixes:KOSOP:name
+Fixes:KOSOP:symbol
+Fixes:LELKA:name
+Fixes:LELKA:symbol
+Fixes:LOMKO:name
+Fixes:LOMKO:symbol
+Fixes:LOPNO:name
+Fixes:LOPNO:symbol
+Fixes:LUVIG:name
+Fixes:LUVIG:symbol
+Fixes:MARTY:name
+Fixes:MARTY:symbol
+Fixes:MIRZU:name
+Fixes:MIRZU:symbol
+Fixes:NUBMI:name
+Fixes:NUBMI:symbol
+Fixes:OKLUL:name
+Fixes:OKLUL:symbol
+Fixes:OLMOM:name
+Fixes:OLMOM:symbol
+Fixes:PABGI:name
+Fixes:PABGI:symbol
+Fixes:RAPUP:name
+Fixes:RAPUP:symbol
+Fixes:REBMI:name
+Fixes:REBMI:symbol
+Fixes:REPKA:name
+Fixes:REPKA:symbol
+Fixes:RITRI:name
+Fixes:RITRI:symbol
+Fixes:RUMEN:name
+Fixes:RUMEN:symbol
+Fixes:RUPOR:name
+Fixes:RUPOR:symbol
+Fixes:SONUF:name
+Fixes:SONUF:symbol
+Fixes:SOPDO:name
+Fixes:SOPDO:symbol
+Fixes:SOPED:name
+Fixes:SOPED:symbol
+Fixes:SOPVA:name
+Fixes:SOPVA:symbol
+Fixes:SOSAM:name
+Fixes:SOSAM:symbol
+Fixes:TUSRI:name
+Fixes:TUSRI:symbol
+Fixes:TUTLI:name
+Fixes:TUTLI:symbol
+Fixes:UBUVO:name
+Fixes:UBUVO:symbol
+Fixes:ULPAD:name
+Fixes:ULPAD:symbol
+Fixes:UNERU:name
+Fixes:UNERU:symbol
+Fixes:VAMBU:name
+Fixes:VAMBU:symbol
+Fixes:VARIL:name
+Fixes:VARIL:symbol
+Fixes:VAXID:name
+Fixes:VAXID:symbol
+Fixes:VERCE:name
+Fixes:VERCE:symbol
+Fixes:XIDBO:name
+Fixes:XIDBO:symbol
+Fixes:XILBO:name
+Fixes:XILBO:symbol
+Fixes:XUDLA:name
+Fixes:XUDLA:symbol
+Free Text:LBBG GroundLayout\1:freetext
+Free Text:LBBG GroundLayout\10:freetext
+Free Text:LBBG GroundLayout\11:freetext
+Free Text:LBBG GroundLayout\12:freetext
+Free Text:LBBG GroundLayout\13:freetext
+Free Text:LBBG GroundLayout\14:freetext
+Free Text:LBBG GroundLayout\15:freetext
+Free Text:LBBG GroundLayout\16:freetext
+Free Text:LBBG GroundLayout\17:freetext
+Free Text:LBBG GroundLayout\18:freetext
+Free Text:LBBG GroundLayout\19:freetext
+Free Text:LBBG GroundLayout\1A:freetext
+Free Text:LBBG GroundLayout\1B:freetext
+Free Text:LBBG GroundLayout\2:freetext
+Free Text:LBBG GroundLayout\20:freetext
+Free Text:LBBG GroundLayout\21:freetext
+Free Text:LBBG GroundLayout\22:freetext
+Free Text:LBBG GroundLayout\23:freetext
+Free Text:LBBG GroundLayout\24:freetext
+Free Text:LBBG GroundLayout\25:freetext
+Free Text:LBBG GroundLayout\26:freetext
+Free Text:LBBG GroundLayout\27:freetext
+Free Text:LBBG GroundLayout\2B:freetext
+Free Text:LBBG GroundLayout\3:freetext
+Free Text:LBBG GroundLayout\3B:freetext
+Free Text:LBBG GroundLayout\4:freetext
+Free Text:LBBG GroundLayout\4B:freetext
+Free Text:LBBG GroundLayout\5:freetext
+Free Text:LBBG GroundLayout\5B:freetext
+Free Text:LBBG GroundLayout\6:freetext
+Free Text:LBBG GroundLayout\7:freetext
+Free Text:LBBG GroundLayout\8:freetext
+Free Text:LBBG GroundLayout\9:freetext
+Free Text:LBBG GroundLayout\A:freetext
+Free Text:LBBG GroundLayout\A:freetext
+Free Text:LBBG GroundLayout\B:freetext
+Free Text:LBBG GroundLayout\C:freetext
+Free Text:LBBG GroundLayout\CARGO-TERMINAL:freetext
+Free Text:LBBG GroundLayout\CAT I HOLDING POINT:freetext
+Free Text:LBBG GroundLayout\D:freetext
+Free Text:LBBG GroundLayout\E:freetext
+Free Text:LBBG GroundLayout\H:freetext
+Free Text:LBBG GroundLayout\H:freetext
+Free Text:LBBG GroundLayout\H:freetext
+Free Text:LBBG GroundLayout\H:freetext
+Free Text:LBBG GroundLayout\J:freetext
+Free Text:LBBG GroundLayout\LOC-110.30-CRS219:freetext
+Free Text:LBBG GroundLayout\TERMINAL1:freetext
+Free Text:LBBG GroundLayout\TERMINAL2:freetext
+Free Text:LBBG GroundLayout\TORA-04(1781m):freetext
+Free Text:LBBG GroundLayout\TORA-04(2572m):freetext
+Free Text:LBBG GroundLayout\TORA-22(1443m):freetext
+Free Text:LBBG GroundLayout\TORA-22(2049m):freetext
+Free Text:LBBG GroundLayout\TORA-22(2643m):freetext
+Free Text:LBBG GroundLayout\TOWER:freetext
+Free Text:LBGO GroundLayout\1:freetext
+Free Text:LBGO GroundLayout\2:freetext
+Free Text:LBGO GroundLayout\3:freetext
+Free Text:LBGO GroundLayout\A:freetext
+Free Text:LBGO GroundLayout\TERMINAL1:freetext
+Free Text:LBGO GroundLayout\TOWER:freetext
+Free Text:LBPD GroundLayout\1:freetext
+Free Text:LBPD GroundLayout\10:freetext
+Free Text:LBPD GroundLayout\11:freetext
+Free Text:LBPD GroundLayout\12:freetext
+Free Text:LBPD GroundLayout\13:freetext
+Free Text:LBPD GroundLayout\2:freetext
+Free Text:LBPD GroundLayout\3:freetext
+Free Text:LBPD GroundLayout\4:freetext
+Free Text:LBPD GroundLayout\5:freetext
+Free Text:LBPD GroundLayout\6:freetext
+Free Text:LBPD GroundLayout\7:freetext
+Free Text:LBPD GroundLayout\8:freetext
+Free Text:LBPD GroundLayout\9:freetext
+Free Text:LBPD GroundLayout\A:freetext
+Free Text:LBPD GroundLayout\A:freetext
+Free Text:LBPD GroundLayout\B:freetext
+Free Text:LBPD GroundLayout\B:freetext
+Free Text:LBPD GroundLayout\C:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\D:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\E:freetext
+Free Text:LBPD GroundLayout\F:freetext
+Free Text:LBPD GroundLayout\LOC-109.90-CRS302:freetext
+Free Text:LBPD GroundLayout\OLD-TERMINAL:freetext
+Free Text:LBPD GroundLayout\TERMINAL:freetext
+Free Text:LBPD GroundLayout\TOWER:freetext
+Free Text:LBSF GroundLayout\1:freetext
+Free Text:LBSF GroundLayout\10:freetext
+Free Text:LBSF GroundLayout\11:freetext
+Free Text:LBSF GroundLayout\12:freetext
+Free Text:LBSF GroundLayout\12A:freetext
+Free Text:LBSF GroundLayout\13:freetext
+Free Text:LBSF GroundLayout\13A:freetext
+Free Text:LBSF GroundLayout\14:freetext
+Free Text:LBSF GroundLayout\14A:freetext
+Free Text:LBSF GroundLayout\15:freetext
+Free Text:LBSF GroundLayout\15A:freetext
+Free Text:LBSF GroundLayout\16:freetext
+Free Text:LBSF GroundLayout\16A:freetext
+Free Text:LBSF GroundLayout\17:freetext
+Free Text:LBSF GroundLayout\18:freetext
+Free Text:LBSF GroundLayout\19:freetext
+Free Text:LBSF GroundLayout\2:freetext
+Free Text:LBSF GroundLayout\20:freetext
+Free Text:LBSF GroundLayout\21:freetext
+Free Text:LBSF GroundLayout\22:freetext
+Free Text:LBSF GroundLayout\23:freetext
+Free Text:LBSF GroundLayout\24:freetext
+Free Text:LBSF GroundLayout\25:freetext
+Free Text:LBSF GroundLayout\26:freetext
+Free Text:LBSF GroundLayout\27:freetext
+Free Text:LBSF GroundLayout\28:freetext
+Free Text:LBSF GroundLayout\29:freetext
+Free Text:LBSF GroundLayout\29A:freetext
+Free Text:LBSF GroundLayout\2D:freetext
+Free Text:LBSF GroundLayout\3:freetext
+Free Text:LBSF GroundLayout\30:freetext
+Free Text:LBSF GroundLayout\30A:freetext
+Free Text:LBSF GroundLayout\31:freetext
+Free Text:LBSF GroundLayout\31A:freetext
+Free Text:LBSF GroundLayout\32:freetext
+Free Text:LBSF GroundLayout\32A:freetext
+Free Text:LBSF GroundLayout\33:freetext
+Free Text:LBSF GroundLayout\33A:freetext
+Free Text:LBSF GroundLayout\34:freetext
+Free Text:LBSF GroundLayout\34A:freetext
+Free Text:LBSF GroundLayout\35:freetext
+Free Text:LBSF GroundLayout\36:freetext
+Free Text:LBSF GroundLayout\37:freetext
+Free Text:LBSF GroundLayout\38:freetext
+Free Text:LBSF GroundLayout\39:freetext
+Free Text:LBSF GroundLayout\3D:freetext
+Free Text:LBSF GroundLayout\4:freetext
+Free Text:LBSF GroundLayout\40:freetext
+Free Text:LBSF GroundLayout\41:freetext
+Free Text:LBSF GroundLayout\42:freetext
+Free Text:LBSF GroundLayout\43:freetext
+Free Text:LBSF GroundLayout\44:freetext
+Free Text:LBSF GroundLayout\4A:freetext
+Free Text:LBSF GroundLayout\4B:freetext
+Free Text:LBSF GroundLayout\4D:freetext
+Free Text:LBSF GroundLayout\5:freetext
+Free Text:LBSF GroundLayout\5D:freetext
+Free Text:LBSF GroundLayout\6:freetext
+Free Text:LBSF GroundLayout\6D:freetext
+Free Text:LBSF GroundLayout\7:freetext
+Free Text:LBSF GroundLayout\7D:freetext
+Free Text:LBSF GroundLayout\8:freetext
+Free Text:LBSF GroundLayout\9:freetext
+Free Text:LBSF GroundLayout\A1:freetext
+Free Text:LBSF GroundLayout\A2:freetext
+Free Text:LBSF GroundLayout\B:freetext
+Free Text:LBSF GroundLayout\B:freetext
+Free Text:LBSF GroundLayout\B1:freetext
+Free Text:LBSF GroundLayout\B2:freetext
+Free Text:LBSF GroundLayout\B3:freetext
+Free Text:LBSF GroundLayout\B4:freetext
+Free Text:LBSF GroundLayout\C:freetext
+Free Text:LBSF GroundLayout\C:freetext
+Free Text:LBSF GroundLayout\C:freetext
+Free Text:LBSF GroundLayout\C1:freetext
+Free Text:LBSF GroundLayout\C2:freetext
+Free Text:LBSF GroundLayout\C3:freetext
+Free Text:LBSF GroundLayout\D:freetext
+Free Text:LBSF GroundLayout\D1:freetext
+Free Text:LBSF GroundLayout\DE-ICING-BRAVO:freetext
+Free Text:LBSF GroundLayout\DE-ICING-LIMA:freetext
+Free Text:LBSF GroundLayout\E1:freetext
+Free Text:LBSF GroundLayout\F1:freetext
+Free Text:LBSF GroundLayout\GA-APRON-NORTH-EAST:freetext
+Free Text:LBSF GroundLayout\GA-APRON-NORTH-WEST:freetext
+Free Text:LBSF GroundLayout\H:freetext
+Free Text:LBSF GroundLayout\H1:freetext
+Free Text:LBSF GroundLayout\H10:freetext
+Free Text:LBSF GroundLayout\H2:freetext
+Free Text:LBSF GroundLayout\H3:freetext
+Free Text:LBSF GroundLayout\H4:freetext
+Free Text:LBSF GroundLayout\H5:freetext
+Free Text:LBSF GroundLayout\H6:freetext
+Free Text:LBSF GroundLayout\H7:freetext
+Free Text:LBSF GroundLayout\H8:freetext
+Free Text:LBSF GroundLayout\H9:freetext
+Free Text:LBSF GroundLayout\HANGARS:freetext
+Free Text:LBSF GroundLayout\J:freetext
+Free Text:LBSF GroundLayout\J:freetext
+Free Text:LBSF GroundLayout\J:freetext
+Free Text:LBSF GroundLayout\J:freetext
+Free Text:LBSF GroundLayout\J:freetext
+Free Text:LBSF GroundLayout\J1:freetext
+Free Text:LBSF GroundLayout\J10:freetext
+Free Text:LBSF GroundLayout\J2:freetext
+Free Text:LBSF GroundLayout\J3:freetext
+Free Text:LBSF GroundLayout\J4:freetext
+Free Text:LBSF GroundLayout\J5:freetext
+Free Text:LBSF GroundLayout\J6:freetext
+Free Text:LBSF GroundLayout\J7:freetext
+Free Text:LBSF GroundLayout\J8:freetext
+Free Text:LBSF GroundLayout\J9:freetext
+Free Text:LBSF GroundLayout\K:freetext
+Free Text:LBSF GroundLayout\K1:freetext
+Free Text:LBSF GroundLayout\K2:freetext
+Free Text:LBSF GroundLayout\L:freetext
+Free Text:LBSF GroundLayout\L:freetext
+Free Text:LBSF GroundLayout\L:freetext
+Free Text:LBSF GroundLayout\L1:freetext
+Free Text:LBSF GroundLayout\L2:freetext
+Free Text:LBSF GroundLayout\LOC-109.50-CRS-270:freetext
+Free Text:LBSF GroundLayout\LOC-110.70-CRS-090:freetext
+Free Text:LBSF GroundLayout\M:freetext
+Free Text:LBSF GroundLayout\M1:freetext
+Free Text:LBSF GroundLayout\M2:freetext
+Free Text:LBSF GroundLayout\N:freetext
+Free Text:LBSF GroundLayout\N:freetext
+Free Text:LBSF GroundLayout\N:freetext
+Free Text:LBSF GroundLayout\N:freetext
+Free Text:LBSF GroundLayout\N1:freetext
+Free Text:LBSF GroundLayout\P:freetext
+Free Text:LBSF GroundLayout\P1:freetext
+Free Text:LBSF GroundLayout\Q:freetext
+Free Text:LBSF GroundLayout\R:freetext
+Free Text:LBSF GroundLayout\RUN-UP-AREA:freetext
+Free Text:LBSF GroundLayout\S:freetext
+Free Text:LBSF GroundLayout\S1:freetext
+Free Text:LBSF GroundLayout\T:freetext
+Free Text:LBSF GroundLayout\TERMINAL1:freetext
+Free Text:LBSF GroundLayout\TERMINAL2:freetext
+Free Text:LBSF GroundLayout\TORA-09(1915m):freetext
+Free Text:LBSF GroundLayout\TORA-09(2255m):freetext
+Free Text:LBSF GroundLayout\TORA-09(2550m):freetext
+Free Text:LBSF GroundLayout\TORA-27(1345m):freetext
+Free Text:LBSF GroundLayout\TORA-27(2480m):freetext
+Free Text:LBSF GroundLayout\TOWER:freetext
+Free Text:LBSF GroundLayout\U:freetext
+Free Text:LBSF GroundLayout\V:freetext
+Free Text:LBSF GroundLayout\VIP APRON:freetext
+Free Text:LBSF GroundLayout\W:freetext
+Free Text:LBWN GroundLayout\1:freetext
+Free Text:LBWN GroundLayout\10:freetext
+Free Text:LBWN GroundLayout\11:freetext
+Free Text:LBWN GroundLayout\12:freetext
+Free Text:LBWN GroundLayout\13:freetext
+Free Text:LBWN GroundLayout\14:freetext
+Free Text:LBWN GroundLayout\15:freetext
+Free Text:LBWN GroundLayout\17:freetext
+Free Text:LBWN GroundLayout\17A:freetext
+Free Text:LBWN GroundLayout\18:freetext
+Free Text:LBWN GroundLayout\19:freetext
+Free Text:LBWN GroundLayout\19A:freetext
+Free Text:LBWN GroundLayout\1A:freetext
+Free Text:LBWN GroundLayout\2:freetext
+Free Text:LBWN GroundLayout\20:freetext
+Free Text:LBWN GroundLayout\20A:freetext
+Free Text:LBWN GroundLayout\21:freetext
+Free Text:LBWN GroundLayout\22:freetext
+Free Text:LBWN GroundLayout\22A:freetext
+Free Text:LBWN GroundLayout\23:freetext
+Free Text:LBWN GroundLayout\24:freetext
+Free Text:LBWN GroundLayout\24A:freetext
+Free Text:LBWN GroundLayout\25:freetext
+Free Text:LBWN GroundLayout\26:freetext
+Free Text:LBWN GroundLayout\3:freetext
+Free Text:LBWN GroundLayout\3A:freetext
+Free Text:LBWN GroundLayout\4:freetext
+Free Text:LBWN GroundLayout\5:freetext
+Free Text:LBWN GroundLayout\6:freetext
+Free Text:LBWN GroundLayout\7:freetext
+Free Text:LBWN GroundLayout\8:freetext
+Free Text:LBWN GroundLayout\9:freetext
+Free Text:LBWN GroundLayout\A:freetext
+Free Text:LBWN GroundLayout\A2:freetext
+Free Text:LBWN GroundLayout\B:freetext
+Free Text:LBWN GroundLayout\B2:freetext
+Free Text:LBWN GroundLayout\C:freetext
+Free Text:LBWN GroundLayout\C2:freetext
+Free Text:LBWN GroundLayout\CAT I H/P:freetext
+Free Text:LBWN GroundLayout\D:freetext
+Free Text:LBWN GroundLayout\De-Ice Pad:freetext
+Free Text:LBWN GroundLayout\E:freetext
+Free Text:LBWN GroundLayout\E:freetext
+Free Text:LBWN GroundLayout\E4:freetext
+Free Text:LBWN GroundLayout\GRAVEYARD:freetext
+Free Text:LBWN GroundLayout\H/P A:freetext
+Free Text:LBWN GroundLayout\H/P B:freetext
+Free Text:LBWN GroundLayout\H/P C:freetext
+Free Text:LBWN GroundLayout\H/P D:freetext
+Free Text:LBWN GroundLayout\H/P E:freetext
+Free Text:LBWN GroundLayout\HANGAR:freetext
+Free Text:LBWN GroundLayout\LOC-109.90-CRS092:freetext
+Free Text:LBWN GroundLayout\N:freetext
+Free Text:LBWN GroundLayout\N:freetext
+Free Text:LBWN GroundLayout\N1:freetext
+Free Text:LBWN GroundLayout\N2:freetext
+Free Text:LBWN GroundLayout\S:freetext
+Free Text:LBWN GroundLayout\S:freetext
+Free Text:LBWN GroundLayout\S1:freetext
+Free Text:LBWN GroundLayout\S2:freetext
+Free Text:LBWN GroundLayout\S3:freetext
+Free Text:LBWN GroundLayout\S4:freetext
+Free Text:LBWN GroundLayout\TERMINAL 1:freetext
+Free Text:LBWN GroundLayout\TERMINAL 2:freetext
+Free Text:LBWN GroundLayout\VIP APRON:freetext
+Geo:GEO:
+Geo:LBBG Groundlayout SMR:
+Geo:LBBG Route VFR:
+Geo:LBGO Groundlayout SMR:
+Geo:LBGO Route VFR:
+Geo:LBPD Groundlayout SMR:
+Geo:LBPD Route VFR:
+Geo:LBSF Groundlayout SMR:
+Geo:LBSF Route VFR:
+Geo:LBWN Groundlayout SMR:
+Geo:LBWN Route VFR:
+Regions:LBBG 3D:polygon
+Regions:LBGO 3D:polygon
+Regions:LBPD 3D:polygon
+Regions:LBSF 3D:polygon
+Regions:LBWN 3D:polygon
+Runways:LBBG 04-22:centerline
+Runways:LBBG 04-22:extended centerline 1
+Runways:LBBG 04-22:extended centerline 1 left base
+Runways:LBBG 04-22:extended centerline 1 left ticks
+Runways:LBBG 04-22:extended centerline 1 left vectoring
+Runways:LBBG 04-22:extended centerline 1 right base
+Runways:LBBG 04-22:extended centerline 1 right ticks
+Runways:LBBG 04-22:extended centerline 1 right vectoring
+Runways:LBBG 04-22:extended centerline 2
+Runways:LBBG 04-22:extended centerline 2 left base
+Runways:LBBG 04-22:extended centerline 2 left ticks
+Runways:LBBG 04-22:extended centerline 2 left vectoring
+Runways:LBBG 04-22:extended centerline 2 right base
+Runways:LBBG 04-22:extended centerline 2 right ticks
+Runways:LBBG 04-22:extended centerline 2 right vectoring
+Runways:LBBG 04-22:name
+Runways:LBGO 09-27:centerline
+Runways:LBGO 09-27:extended centerline 1
+Runways:LBGO 09-27:extended centerline 1 left base
+Runways:LBGO 09-27:extended centerline 1 left ticks
+Runways:LBGO 09-27:extended centerline 1 left vectoring
+Runways:LBGO 09-27:extended centerline 1 right base
+Runways:LBGO 09-27:extended centerline 1 right ticks
+Runways:LBGO 09-27:extended centerline 1 right vectoring
+Runways:LBGO 09-27:extended centerline 2
+Runways:LBGO 09-27:extended centerline 2 left base
+Runways:LBGO 09-27:extended centerline 2 left ticks
+Runways:LBGO 09-27:extended centerline 2 left vectoring
+Runways:LBGO 09-27:extended centerline 2 right base
+Runways:LBGO 09-27:extended centerline 2 right ticks
+Runways:LBGO 09-27:extended centerline 2 right vectoring
+Runways:LBGO 09-27:name
+Runways:LBPD 12-30:centerline
+Runways:LBPD 12-30:extended centerline 1
+Runways:LBPD 12-30:extended centerline 1 left base
+Runways:LBPD 12-30:extended centerline 1 left ticks
+Runways:LBPD 12-30:extended centerline 1 left vectoring
+Runways:LBPD 12-30:extended centerline 1 right base
+Runways:LBPD 12-30:extended centerline 1 right ticks
+Runways:LBPD 12-30:extended centerline 1 right vectoring
+Runways:LBPD 12-30:extended centerline 2
+Runways:LBPD 12-30:extended centerline 2 left base
+Runways:LBPD 12-30:extended centerline 2 left ticks
+Runways:LBPD 12-30:extended centerline 2 left vectoring
+Runways:LBPD 12-30:extended centerline 2 right base
+Runways:LBPD 12-30:extended centerline 2 right ticks
+Runways:LBPD 12-30:extended centerline 2 right vectoring
+Runways:LBPD 12-30:name
+Runways:LBSF 09-27:centerline
+Runways:LBSF 09-27:extended centerline 1
+Runways:LBSF 09-27:extended centerline 1 left base
+Runways:LBSF 09-27:extended centerline 1 left ticks
+Runways:LBSF 09-27:extended centerline 1 left vectoring
+Runways:LBSF 09-27:extended centerline 1 right base
+Runways:LBSF 09-27:extended centerline 1 right ticks
+Runways:LBSF 09-27:extended centerline 1 right vectoring
+Runways:LBSF 09-27:extended centerline 2
+Runways:LBSF 09-27:extended centerline 2 left base
+Runways:LBSF 09-27:extended centerline 2 left ticks
+Runways:LBSF 09-27:extended centerline 2 left vectoring
+Runways:LBSF 09-27:extended centerline 2 right base
+Runways:LBSF 09-27:extended centerline 2 right ticks
+Runways:LBSF 09-27:extended centerline 2 right vectoring
+Runways:LBSF 09-27:name
+Runways:LBWN 09-27:centerline
+Runways:LBWN 09-27:extended centerline 1
+Runways:LBWN 09-27:extended centerline 1 left base
+Runways:LBWN 09-27:extended centerline 1 left ticks
+Runways:LBWN 09-27:extended centerline 1 left vectoring
+Runways:LBWN 09-27:extended centerline 1 right base
+Runways:LBWN 09-27:extended centerline 1 right ticks
+Runways:LBWN 09-27:extended centerline 1 right vectoring
+Runways:LBWN 09-27:extended centerline 2
+Runways:LBWN 09-27:extended centerline 2 left base
+Runways:LBWN 09-27:extended centerline 2 left ticks
+Runways:LBWN 09-27:extended centerline 2 left vectoring
+Runways:LBWN 09-27:extended centerline 2 right base
+Runways:LBWN 09-27:extended centerline 2 right ticks
+Runways:LBWN 09-27:extended centerline 2 right vectoring
+Runways:LBWN 09-27:name
+VORs:ALX:symbol
+VORs:ARF:symbol
+VORs:AXE:symbol
+VORs:BAR:symbol
+VORs:BCS:symbol
+VORs:BDM:symbol
+VORs:BGD:symbol
+VORs:BGS:symbol
+VORs:BIG:symbol
+VORs:BKZ:symbol
+VORs:BLC:symbol
+VORs:BLO:symbol
+VORs:BRC:symbol
+VORs:BRY:symbol
+VORs:BUI:symbol
+VORs:CEK:symbol
+VORs:CLU:symbol
+VORs:CND:symbol
+VORs:CNK:symbol
+VORs:CRL:symbol
+VORs:CRV:symbol
+VORs:CTP:symbol
+VORs:DBK:symbol
+VORs:DER:symbol
+VORs:EKI:symbol
+VORs:EMO:symbol
+VORs:FGG:symbol
+VORs:FLR:symbol
+VORs:FSK:symbol
+VORs:GDC:symbol
+VORs:GIO:symbol
+VORs:GKA:symbol
+VORs:GOL:symbol
+VORs:GRN:symbol
+VORs:GRT:symbol
+VORs:IST:symbol
+VORs:IZD:symbol
+VORs:KAL:symbol
+VORs:KAS:symbol
+VORs:KEB:symbol
+VORs:KIS:symbol
+VORs:KOZ:symbol
+VORs:KPL:symbol
+VORs:KRV:symbol
+VORs:LAK:symbol
+VORs:LCC:symbol
+VORs:MIK:symbol
+VORs:MKR:symbol
+VORs:MNL:symbol
+VORs:MSR:symbol
+VORs:NII:symbol
+VORs:OHR:symbol
+VORs:OMA:symbol
+VORs:OPT:symbol
+VORs:PDV:symbol
+VORs:PEP:symbol
+VORs:POD:symbol
+VORs:PRT:symbol
+VORs:ROZ:symbol
+VORs:SBH:symbol
+VORs:SIN:symbol
+VORs:SKJ:symbol
+VORs:SOF:symbol
+VORs:SPL:symbol
+VORs:STJ:symbol
+VORs:TAG:symbol
+VORs:TPL:symbol
+VORs:TRN:symbol
+VORs:TSL:symbol
+VORs:TZU:symbol
+VORs:UHL:symbol
+VORs:UHM:symbol
+VORs:UHN:symbol
+VORs:VAL:symbol
+VORs:VIE:symbol
+VORs:VIT:symbol
+VORs:VRB:symbol
+VORs:WRN:symbol
+VORs:YAA:symbol
+VORs:YEN:symbol
+VORs:ZDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA
+WINDOWAREA:41.408264:22.309137:44.087354:29.085292

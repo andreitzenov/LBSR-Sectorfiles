@@ -1,0 +1,24 @@
+Settings	SettingsfileSYMBOLOGY	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfilePROFILE	\LBSR\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\LBSR\Settings\VoiceChannels.txt
+Settings	SettingsfileTAGS	\LBSR\Plugins\Plugin(tag).txt
+Settings	SettingsfileSIL	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfileSEL	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfileDEP	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfileARR	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfileFP	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfilePLUGINS	\LBSR\Plugins\Plugin(tag).txt
+Settings	Settingsfile	\LBSR\SATCASBulgaria.txt
+Settings	SettingsfileSCREEN	\LBSR\Plugins\Plugin(tag).txt
+Settings	alias	\LBSR\Alias\alias.txt
+Settings    airlines    \LBSR\ICAO\ICAO_Airlines.txt
+Settings    airports    \LBSR\ICAO\ICAO_Airports.txt
+Settings    aircraft    \LBSR\ICAO\ICAO_Aircraft.txt
+Settings	sector	\LBSR-LBSR-Package_20250424164311-241301-0009.sct
+Plugins	Plugin0	\LBSR\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\LBSR\Plugins\AFVBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\LBSR\Plugins\GRP\GRplugin.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen

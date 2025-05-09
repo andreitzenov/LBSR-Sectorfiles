@@ -1,0 +1,163 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:LBSF TMA:
+ARTCC boundary:LRCK-TMA:
+ARTCC boundary:LYNI-TMA:
+ARTCC boundary:TMA LBBG:
+ARTCC boundary:TMA LBGO:
+ARTCC boundary:TMA LBPD:
+ARTCC boundary:TMA LBWN:
+ARTCC high boundary:ADR:
+ARTCC high boundary:ANK_N_CTR:
+ARTCC high boundary:ANK_W_CTR:
+ARTCC high boundary:LBSR CTA I:
+ARTCC high boundary:LBSR CTA II:
+ARTCC high boundary:LBSR CTA III:
+ARTCC high boundary:LBSR CTA V:
+ARTCC high boundary:LBSR CTA VI:
+ARTCC high boundary:LBSR FIR:
+ARTCC high boundary:LGGG:
+ARTCC low boundary:Tower CTR LBGO:
+Fixes:AMTOV:name
+Fixes:AMTOV:symbol
+Fixes:DELIN:name
+Fixes:DELIN:symbol
+Fixes:GO380:name
+Fixes:GO380:symbol
+Fixes:GO381:name
+Fixes:GO381:symbol
+Fixes:GO382:name
+Fixes:GO382:symbol
+Fixes:GO383:name
+Fixes:GO383:symbol
+Fixes:GO385:name
+Fixes:GO385:symbol
+Fixes:GO387:name
+Fixes:GO387:symbol
+Free Text:LBGO GroundLayout\1:freetext
+Free Text:LBGO GroundLayout\2:freetext
+Free Text:LBGO GroundLayout\3:freetext
+Free Text:LBGO GroundLayout\A:freetext
+Free Text:LBGO GroundLayout\TERMINAL1:freetext
+Free Text:LBGO GroundLayout\TOWER:freetext
+Geo:GEO:
+Geo:LBGO Groundlayout SMR:
+Regions:LBGO 3D:polygon
+Runways:LBGO 09-27:centerline
+Runways:LBGO 09-27:extended centerline 1
+Runways:LBGO 09-27:extended centerline 1 left base
+Runways:LBGO 09-27:extended centerline 1 left ticks
+Runways:LBGO 09-27:extended centerline 1 left vectoring
+Runways:LBGO 09-27:extended centerline 1 right base
+Runways:LBGO 09-27:extended centerline 1 right ticks
+Runways:LBGO 09-27:extended centerline 1 right vectoring
+Runways:LBGO 09-27:extended centerline 2
+Runways:LBGO 09-27:extended centerline 2 left base
+Runways:LBGO 09-27:extended centerline 2 left ticks
+Runways:LBGO 09-27:extended centerline 2 left vectoring
+Runways:LBGO 09-27:extended centerline 2 right base
+Runways:LBGO 09-27:extended centerline 2 right ticks
+Runways:LBGO 09-27:extended centerline 2 right vectoring
+Runways:LBGO 09-27:name
+Stars:LBGO RNP27 AMTOV:
+Stars:LBGO RNP27 DELIN:
+Stars:LBGO RNP27 GRN:
+VORs:ALX:symbol
+VORs:ARF:symbol
+VORs:AXE:symbol
+VORs:BAR:symbol
+VORs:BCS:symbol
+VORs:BDM:symbol
+VORs:BGD:symbol
+VORs:BGS:symbol
+VORs:BIG:symbol
+VORs:BKZ:symbol
+VORs:BLC:symbol
+VORs:BLO:symbol
+VORs:BRC:symbol
+VORs:BRY:symbol
+VORs:BUI:symbol
+VORs:CEK:symbol
+VORs:CLU:symbol
+VORs:CND:symbol
+VORs:CNK:symbol
+VORs:CRL:symbol
+VORs:CRV:symbol
+VORs:CTP:symbol
+VORs:DBK:symbol
+VORs:DER:symbol
+VORs:EKI:symbol
+VORs:EMO:symbol
+VORs:FGG:symbol
+VORs:FLR:symbol
+VORs:FSK:symbol
+VORs:GDC:symbol
+VORs:GIO:symbol
+VORs:GKA:symbol
+VORs:GOL:symbol
+VORs:GRN:name
+VORs:GRN:symbol
+VORs:GRT:symbol
+VORs:IST:symbol
+VORs:IZD:symbol
+VORs:KAL:symbol
+VORs:KAS:symbol
+VORs:KEB:symbol
+VORs:KIS:symbol
+VORs:KOZ:symbol
+VORs:KPL:symbol
+VORs:KRV:symbol
+VORs:LAK:symbol
+VORs:LCC:symbol
+VORs:MIK:symbol
+VORs:MKR:symbol
+VORs:MNL:symbol
+VORs:MSR:symbol
+VORs:NII:symbol
+VORs:OHR:symbol
+VORs:OMA:symbol
+VORs:OPT:symbol
+VORs:PDV:symbol
+VORs:PEP:symbol
+VORs:POD:symbol
+VORs:PRT:symbol
+VORs:ROZ:symbol
+VORs:SBH:symbol
+VORs:SIN:symbol
+VORs:SKJ:symbol
+VORs:SOF:symbol
+VORs:SPL:symbol
+VORs:STJ:symbol
+VORs:TAG:symbol
+VORs:TPL:symbol
+VORs:TRN:symbol
+VORs:TSL:symbol
+VORs:TZU:symbol
+VORs:UHL:symbol
+VORs:UHM:symbol
+VORs:UHN:symbol
+VORs:VAL:symbol
+VORs:VIE:symbol
+VORs:VIT:symbol
+VORs:VRB:symbol
+VORs:WRN:symbol
+VORs:YAA:symbol
+VORs:YEN:symbol
+VORs:ZDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:353.30000
+TAGFAMILY:BULATSA
+WINDOWAREA:43.135265:25.673483:43.167099:25.754002
