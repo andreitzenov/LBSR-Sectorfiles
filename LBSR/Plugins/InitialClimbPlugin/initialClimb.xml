@@ -62,7 +62,7 @@
 	</apt>
 	<apt icao="LBBG">
 		<runway name="04">
-			<sid name="IXUKO2S">
+			<sid name="RUEXX1S">
 				<alt>060</alt>
 			</sid>
 			<sid name="ARNOV2S">
@@ -71,7 +71,7 @@
 			<sid name="GONGO1S">
 				<alt>060</alt>
 			</sid>
-			<sid name="BUVAK1S">
+			<sid name="BUVAK2S">
 				<alt>060</alt>
 			</sid>
 			<sid name="TUGSO1S">
@@ -85,16 +85,16 @@
 			</sid>
 		</runway>
 		<runway name="22">
-			<sid name="IXUKO1V">
+			<sid name="RUEXX1V">
 				<alt>060</alt>
 			</sid>
-			<sid name="ARNOV3V">
+			<sid name="ARNOV4V">
 				<alt>060</alt>
 			</sid>
 			<sid name="GONGO2V">
 				<alt>060</alt>
 			</sid>
-			<sid name="BUVAK1V">
+			<sid name="BUVAK2V">
 				<alt>060</alt>
 			</sid>
 			<sid name="TUGSO1V">
@@ -103,20 +103,26 @@
 			<sid name="XILTI2V">
 				<alt>060</alt>
 			</sid>
+			<sid name="XILTI2T">
+				<alt>060</alt>
+			</sid>
 			<sid name="MEDEM2V">
+				<alt>060</alt>
+			</sid>
+			<sid name="MEDEM2T">
 				<alt>060</alt>
 			</sid>
 		</runway>
 	</apt>
 	<apt icao="LBWN">
 		<runway name="09">
-			<sid name="BALIK3N">
+			<sid name="BALIK4N">
 				<alt>160</alt>
 			</sid>
-			<sid name="TOTKA3N">
+			<sid name="DICXA1N">
 				<alt>160</alt>
 			</sid>
-			<sid name="RUTAR3N">
+			<sid name="RUTAR4N">
 				<alt>170</alt>
 			</sid>
 			<sid name="IVGOT2N">
@@ -130,13 +136,13 @@
 			<sid name="BALIK3P">
 				<alt>160</alt>
 			</sid>
-			<sid name="TOTKA2P">
+			<sid name="DICXA1P">
 				<alt>160</alt>
 			</sid>
-			<sid name="RUTAR3P">
+			<sid name="RUTAR4P">
 				<alt>170</alt>
 			</sid>
-			<sid name="IVGOT3P">
+			<sid name="IVGOT4P">
 				<alt>170</alt>
 			</sid>
 			<sid name="NEDSI3P">
@@ -149,6 +155,9 @@
 			<sid name="RUMEN2B">
 				<alt>160</alt>
 			</sid>
+			<sid name="RUMEN2K">
+				<alt>160</alt>
+			</sid>
 			<sid name="ROVDO1B">
 				<alt>150</alt>
 			</sid>
@@ -157,9 +166,15 @@
 			<sid name="RUMEN1F">
 				<alt>160</alt>
 			</sid>
+			<sid name="RUMEN1L">
+				<alt>160</alt>
+			</sid>
 			<sid name="ROVDO1F">
 				<alt>150</alt>
 			</sid>	
+			<sid name="ROVDO1L">
+				<alt>150</alt>
+			</sid>
 		</runway>
 		</apt>
 	<apt icao="LBGO">
